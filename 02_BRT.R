@@ -6,7 +6,7 @@ library(dismo)
 library(gbm)
 library(dplyr)
 
-RESPONSE_VARS <- c("TD", "FD", "PD", "LCBD_Tax", "LCBD_Func", "LCBD_Phylo")
+RESPONSE_VARS <- c("TD", "FD", "PD", "LCBDtax", "LCBDfunc", "LCBDphylo")
 
 PREDICTOR_VARS <- c(
   "Elevation", "Gradient", "SPI", "Qmon", "Qann", "CatchArea", "Order", "Out_dist",
