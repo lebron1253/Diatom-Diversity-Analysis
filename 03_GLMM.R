@@ -28,7 +28,7 @@ cwm$Site      <- rownames(cwm)
 df_raw        <- left_join(df_raw, cwm, by="Site")
 
 # Variable lists
-response_vars <- c("TD", "FD", "PD", "LCBD_Tax", "LCBD_Func", "LCBD_Phylo")
+response_vars <- c("TD", "FD", "PD", "LCBDtax", "LCBDfunc", "LCBDphylo")
 env_vars      <- c("Elevation", "CatchArea", "MAT", "HFP", "EC", "TP", "COD")
 trait_vars    <- grep("^CWM_", names(df_raw), value=TRUE)
 all_vars      <- c(response_vars, env_vars, trait_vars)
