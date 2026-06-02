@@ -1,0 +1,1106 @@
+Species	Size	Guild	Life form	Attachment	Nitrogen fixing	Pollution tolerance	Trophic preference	Oxygen requirement
+Acanthoceras zachariasii	Macro	Low profile	Unicellular life form	Unattached	N	3	5	1
+Achnanthes affinis	Micro	Low profile	Unicellular life form	Strong attachment	N	1	5	1
+Achnanthes amphicephala	Micro	Low profile	Unicellular life form	Strong attachment	N	1	5	2
+Achnanthes biasolettiana	Micro	Low profile	Unicellular life form	Strong attachment	N	2.085	5	1
+Achnanthes brevipes	Micro	Low profile	Unicellular life form	Strong attachment	N	2.14	5	2
+Achnanthes clevei	Micro	Low profile	Unicellular life form	Strong attachment	N	1.187	5	1
+Achnanthes crenulata	Micro	Low profile	Unicellular life form	Strong attachment	N	3.2	5	1
+Achnanthes delicatula	Micro	Low profile	Unicellular life form	Strong attachment	N	3.2	5	1
+Achnanthes exigua	Micro	Low profile	Unicellular life form	Strong attachment	N	2.04	5	1
+Achnanthes hauckiana	Micro	Low profile	Unicellular life form	Strong attachment	N	3.2	5	1
+Achnanthes heideni	Micro	Low profile	Unicellular life form	Strong attachment	N	1.802	5	1
+Achnanthes inflata	Macro	Motile	Unicellular life form	Unattached	N	2	5	1
+Achnanthes lanceolata	Micro	Low profile	Unicellular life form	Strong attachment	N	2.272	5	1
+Achnanthes lanceolata var. angulata	Micro	Low profile	Unicellular life form	Strong attachment	N	1.906	5	1
+Achnanthes lanceolata f. capitata	Micro	Low profile	Unicellular life form	Strong attachment	N	1.918	5	1
+Achnanthes linearis	Micro	Low profile	Unicellular life form	Strong attachment	N	1	5	1
+Achnanthes longboardia	Macro	Motile	Unicellular life form	Unattached	N	2.129	5	1
+Achnanthes minutissima	Micro	Low profile	Unicellular life form	Strong attachment	N	1.254	5	1
+Achnanthes spp.	Micro	Low profile	Unicellular life form	Strong attachment	N	1.895	5	1
+Achnanthes tibetica	Micro	Low profile	Unicellular life form	Strong attachment	N	2.685	5	1
+Achnanthes trinodis	Micro	Low profile	Unicellular life form	Strong attachment	N	1	5	1
+Achnanthidium affine	Macro	Low profile	Unicellular life form	Strong attachment	N	1	5.204	2.193
+Achnanthidium atomoides	Micro	Low profile	Unicellular life form	Strong attachment	N	1	5.402	3.96
+Achnanthidium atomus	Micro	Low profile	Unicellular life form	Strong attachment	N	1	5.427	2.401
+Achnanthidium biasolettiana	Micro	Low profile	Unicellular life form	Strong attachment	N	1.787	5.546	2.091
+Achnanthidium caledonicum	Micro	Low profile	Unicellular life form	Strong attachment	N	1	5.306	2.302
+Achnanthidium caravelense	Micro	Low profile	Unicellular life form	Strong attachment	N	1.701	5.476	2.606
+Achnanthidium catenatum	Micro	Low profile	Unicellular life form	Strong attachment	N	1.5	5.171	2.702
+Achnanthidium coarctatum	Micro	Low profile	Unicellular life form	Strong attachment	N	1.783	5.142	2.005
+Achnanthidium convergens	Micro	Low profile	Unicellular life form	Strong attachment	N	3	5.328	2.368
+Achnanthidium crassum	Nano	Motile	Unicellular life form	Weak attachment	N	1.4	5.753	1.978
+Achnanthidium delmontii	Nano	Motile	Unicellular life form	Weak attachment	N	2	5.502	3.093
+Achnanthidium duthii	Micro	Low profile	Unicellular life form	Strong attachment	N	1.712	5.476	2.032
+Achnanthidium ennediense	Micro	Low profile	Unicellular life form	Strong attachment	N	1.354	4.811	2.505
+Achnanthidium eutrophilum	Micro	Low profile	Unicellular life form	Strong attachment	N	3	5	1.438
+Achnanthidium exiguum	Micro	Low profile	Unicellular life form	Strong attachment	N	3	5.383	2.264
+Achnanthidium exiguum var. constricta	Micro	Low profile	Unicellular life form	Strong attachment	N	1.71	5.141	2.312
+Achnanthidium exile	Micro	Low profile	Unicellular life form	Strong attachment	N	1	4.608	2.774
+Achnanthidium gracillimum	Micro	Low profile	Unicellular life form	Strong attachment	N	1	5.479	2.06
+Achnanthidium jackii	Micro	Low profile	Unicellular life form	Strong attachment	N	1	7	1
+Achnanthidium latecephalum	Micro	Low profile	Unicellular life form	Strong attachment	N	3.4	5.413	2.395
+Achnanthidium lineare	Micro	Low profile	Unicellular life form	Strong attachment	N	1	5.306	3.873
+Achnanthidium minutissimum	Nano	Low profile	Unicellular life form	Weak attachment	N	1	7	1
+Achnanthidium pfisteri	Micro	Low profile	Unicellular life form	Strong attachment	N	2	5.288	2.5
+Achnanthidium pseudoconspicuum	Micro	Low profile	Unicellular life form	Strong attachment	N	1.847	5.537	2.121
+Achnanthidium pyrenaicum	Micro	Low profile	Unicellular life form	Strong attachment	N	1	3	3.176
+Achnanthidium reimeri	Micro	Low profile	Unicellular life form	Strong attachment	N	1	5.281	2.182
+Achnanthidium rivulare	Micro	Low profile	Unicellular life form	Strong attachment	N	2	5.516	2.518
+Achnanthidium saprophilum	Micro	Low profile	Unicellular life form	Strong attachment	N	3	6	5
+Achnanthidium sieminskae	Micro	Low profile	Unicellular life form	Strong attachment	N	1.781	5.447	2.291
+Achnanthidium spp.	Micro	Low profile	Unicellular life form	Strong attachment	N	1.747	4.835	2.843
+Achnanthidium straubianum	Micro	Low profile	Unicellular life form	Strong attachment	N	3	4	2.082
+Achnanthidium subatomus	Micro	Low profile	Unicellular life form	Strong attachment	N	1	4.627	2.788
+Achnanthidium subhudsonis	Micro	Low profile	Unicellular life form	Strong attachment	N	1	4.999	2.604
+Achnanthidium subhudsonis var. kraeuselii	Nano	Low profile	Unicellular life form	Unattached	N	1.729	5.324	2.598
+Achnanthidium sublanceolatum	Micro	Low profile	Unicellular life form	Strong attachment	N	1.326	4.799	2.531
+Actinella spp.	Micro	Low profile	Unicellular life form	Strong attachment	N	2	4	2
+Actinocyclus normanii	Macro	Low profile	Unicellular life form	Unattached	N	1	4	3
+Actinoptychus spp.	Micro	Low profile	Unicellular life form	Strong attachment	N	1.946	5	1
+Adlafia bryophila	Nano	Low profile	Unicellular life form	Weak attachment	N	1	3	1
+Adlafia lamdongiensis	Nano	Low profile	Unicellular life form	Weak attachment	N	1.314	2.65	1
+Adlafia minuscula	Nano	Low profile	Unicellular life form	Weak attachment	N	3	1	1
+Adlafia multnomahii	Nano	Low profile	Unicellular life form	Weak attachment	N	1.89	2.449	1
+Adlafia spp.	Nano	Low profile	Unicellular life form	Weak attachment	N	1.61	2.787	1
+Adlafia suchlandtii	Nano	Motile	Unicellular life form	Unattached	N	1	2.692	1
+Amphipleura pellucida	Micro	Low profile	Colonial life form	Strong attachment	N	2	3	1
+Amphiprora spp.	Micro	Low profile	Unicellular life form	Weak attachment	N	2	4	1
+Amphora aequalis	Meso	Low profile	Unicellular life form	Weak attachment	N	4	5	1.543
+Amphora alata	Meso	Low profile	Unicellular life form	Weak attachment	N	1.932	5	1.835
+Amphora alpestris	Meso	Low profile	Unicellular life form	Weak attachment	N	1	5	1.845
+Amphora baltica	Meso	Low profile	Unicellular life form	Weak attachment	N	2.794	5	1.899
+Amphora brevis	Meso	Low profile	Unicellular life form	Weak attachment	N	2.195	5	1.869
+Amphora coffeiformis	Meso	Low profile	Unicellular life form	Weak attachment	N	2.042	5	1.884
+Amphora commutata	Meso	Low profile	Unicellular life form	Weak attachment	N	4	5	1.884
+Amphora copulata	Meso	Low profile	Unicellular life form	Weak attachment	N	2	5	2
+Amphora fontinalis	Meso	Low profile	Unicellular life form	Weak attachment	N	1.8	5	1.548
+Amphora inariensis	Meso	Low profile	Unicellular life form	Weak attachment	N	1	5	1.84
+Amphora indistincta	Meso	Low profile	Unicellular life form	Weak attachment	N	1	5	1.896
+Amphora lange-bertalotii var. tenuis	Meso	Low profile	Unicellular life form	Weak attachment	N	2.452	5	1.748
+Amphora libyca	Meso	Low profile	Unicellular life form	Weak attachment	N	2	5	2
+Amphora montana	Meso	Low profile	Unicellular life form	Weak attachment	N	3.2	5	1
+Amphora ovalis	Meso	Low profile	Unicellular life form	Weak attachment	N	2.836	5	2
+Amphora pediculus	Meso	Low profile	Unicellular life form	Weak attachment	N	2	5	2
+Amphora spp.	Meso	Low profile	Unicellular life form	Weak attachment	N	2.661	5	1.834
+Amphora subatomus	Meso	Low profile	Unicellular life form	Weak attachment	N	1.44	5	1.86
+Amphora tewnteana	Meso	Low profile	Unicellular life form	Weak attachment	N	2.213	5	1.815
+Amphora veneta	Meso	Low profile	Unicellular life form	Weak attachment	N	5	5	1.857
+Aneumastus rostratus	Macro	Motile	Unicellular life form	Unattached	N	1.946	5	1
+Anomoeoneis vitrea	Micro	Low profile	Unicellular life form	Weak attachment	N	1	5	4
+Anomoeoneis sphaerophora	Macro	Motile	Unicellular life form	Unattached	N	4	5	4
+Anorthoneis spp.	Micro	Low profile	Unicellular life form	Weak attachment	N	2.5	5	4
+Asterionella formosa	Meso	High profile	Colonial life form	Unattached	N	2	4	2
+Asterionella spp.	Meso	High profile	Colonial life form	Strong attachment	N	2	4	2
+Attheya longicornis	Micro	Low profile	Unicellular life form	Weak attachment	N	2.378	5	1.808
+Aulacoseira ambigua	Macro	High profile	Colonial life form	Unattached	N	3	5	3
+Aulacoseira ambigua f. japonica	Macro	Motile	Colonial life form	Weak attachment	N	1.881	4.374	2.617
+Aulacoseira baicalensis	Macro	Motile	Colonial life form	Weak attachment	N	2.254	3.558	1.391
+Aulacoseira canadensis	Macro	High profile	Unicellular life form	Unattached	N	2.044	4.367	2.561
+Aulacoseira crassipunctata	Macro	Motile	Colonial life form	Weak attachment	N	2	4.366	2.56
+Aulacoseira granulata	Macro	High profile	Colonial life form	Unattached	N	3.1	5	3
+Aulacoseira granulata f. spiralis	Macro	Motile	Colonial life form	Weak attachment	N	2.23	4.33	2.504
+Aulacoseira granulata var. angustissima	Macro	High profile	Colonial life form	Unattached	N	3.2	4.504	2.645
+Aulacoseira granulata var. curvata	Macro	Motile	Colonial life form	Weak attachment	N	2.359	4.103	2.103
+Aulacoseira italica	Macro	Motile	Colonial life form	Weak attachment	N	2.3	4.33	2.597
+Aulacoseira muzzanensis	Macro	High profile	Unicellular life form	Unattached	N	2.2	4.33	2.588
+Aulacoseira pusilla	Macro	Motile	Colonial life form	Weak attachment	N	2	4.563	2.667
+Aulacoseira spp.	Macro	Motile	Colonial life form	Weak attachment	N	1.663	4.255	2.54
+Aulacoseira subarctica	Macro	High profile	Colonial life form	Unattached	N	2	2	1
+Aulacoseira tenella	Nano	Low profile	Unicellular life form	Unattached	N	1.2	4.345	2.599
+Aulacoseira valida	Macro	Motile	Colonial life form	Weak attachment	N	2	4.333	2.323
+Bacterosira constricta	Meso	High profile	Colonial life form	Weak attachment	N	1	2	2
+Bacillaria paxillifera	Meso	Motile	Colonial life form	Weak attachment	N	4	4	1
+Biddulphia tridens	Micro	Low profile	Unicellular life form	Weak attachment	N	1.758	4.895	2.414
+Brachysira brebissonii	Micro	Low profile	Unicellular life form	Weak attachment	N	1	2	2
+Brachysira microcephala	Micro	Low profile	Unicellular life form	Weak attachment	N	1	2	2
+Brachysira neglectissima	Micro	Low profile	Unicellular life form	Weak attachment	N	1	2	2
+Brachysira neoexilis	Micro	Low profile	Unicellular life form	Weak attachment	N	1	2	2
+Brachysira subtilis	Micro	Motile	Unicellular life form	Unattached	N	1	2	2
+Brachysira vitrea	Micro	Motile	Unicellular life form	Unattached	N	1	2	2
+Caloneis amphisbaena	Large	Motile	Unicellular life form	Unattached	N	1.737	5	3
+Caloneis bacillum	Meso	Motile	Unicellular life form	Weak attachment	N	2	3.73	1.768
+Caloneis branderii	Meso	Motile	Unicellular life form	Weak attachment	N	1.281	3.664	1.988
+Caloneis columbiensis	Meso	Motile	Unicellular life form	Weak attachment	N	1.167	3.574	1.99
+Caloneis falcifera	Meso	Motile	Unicellular life form	Weak attachment	N	1.341	3.786	1.99
+Caloneis fontinalis	Meso	Motile	Unicellular life form	Weak attachment	N	1.2	3.759	1.995
+Caloneis ganga	Meso	Motile	Unicellular life form	Weak attachment	N	1.088	3.699	1.988
+Caloneis gibbula	Meso	Motile	Unicellular life form	Weak attachment	N	1.405	3.608	1.98
+Caloneis hyalina	Meso	Motile	Unicellular life form	Weak attachment	N	1	3.52	1.991
+Caloneis kristinae	Meso	Motile	Unicellular life form	Weak attachment	N	1.658	3.324	2.014
+Caloneis lancettula	Meso	Motile	Unicellular life form	Weak attachment	N	1	3.498	1.993
+Caloneis lauta	Meso	Motile	Unicellular life form	Weak attachment	N	1	1	1
+Caloneis limosa	Meso	Motile	Unicellular life form	Weak attachment	N	1	3.553	1.992
+Caloneis molaris	Meso	Motile	Unicellular life form	Weak attachment	N	2	3.679	2.002
+Caloneis permagna	Meso	Motile	Unicellular life form	Weak attachment	N	4	3.333	2.011
+Caloneis pseudotarag	Meso	Motile	Unicellular life form	Weak attachment	N	1.172	3.659	1.963
+Caloneis schroederi	Meso	Motile	Unicellular life form	Weak attachment	N	1	3.57	1.985
+Caloneis silicula	Large	Motile	Unicellular life form	Weak attachment	N	1	4	2
+Caloneis spp.	Meso	Motile	Unicellular life form	Weak attachment	N	1.081	3.648	1.997
+Caloneis ventricosa	Meso	Motile	Unicellular life form	Weak attachment	N	1	3.651	1.985
+Capartogramma crucicula	Meso	Motile	Unicellular life form	Unattached	N	1.1	3	2
+Ceratomeis arcus	Meso	Low profile	Unicellular life form	Weak attachment	N	1.407	3.563	1.982
+Ceratomeis arcus var. amphioxys	Meso	Low profile	Unicellular life form	Weak attachment	N	1.407	3.563	1.982
+Chaetoceros spp.	Meso	Low profile	Unicellular life form	Weak attachment	N	3	3	1
+Chamaepinnularia mediocris	Nano	Motile	Unicellular life form	Weak attachment	N	2	4	1
+Chamaepinnularia soehrensis	Nano	Motile	Unicellular life form	Weak attachment	N	2	4	2
+Chamaepinnularia submuscicola	Micro	Low profile	Unicellular life form	Weak attachment	N	2	3	2
+Cocconeis disculus	Large	Low profile	Unicellular life form	Strong attachment	N	1	5	2.347
+Cocconeis euglypta	Large	Low profile	Unicellular life form	Strong attachment	N	2.4	5	3
+Cocconeis hustedtii	Large	Low profile	Unicellular life form	Strong attachment	N	1.2	5	2.675
+Cocconeis pediculus	Large	Motile	Unicellular life form	Weak attachment	N	2	5	2
+Cocconeis pendiculus	Large	Low profile	Unicellular life form	Strong attachment	N	1.809	5	2.669
+Cocconeis placentula	Large	Low profile	Unicellular life form	Weak attachment	N	1.496	5	3
+Cocconeis placentula var. euglypta	Large	Low profile	Unicellular life form	Strong attachment	N	2.4	5	2.66
+Cocconeis spp.	Large	Low profile	Unicellular life form	Strong attachment	N	1.734	5	2.707
+Conticribra weissflogii	Meso	High profile	Colonial life form	Weak attachment	N	4	6	3
+Coscinodiscus lacustris	Meso	High profile	Colonial life form	Weak attachment	N	3	2	1
+Craticula accomoda	Macro	Motile	Unicellular life form	Unattached	N	5	6	5
+Craticula ambigua	Macro	Motile	Unicellular life form	Unattached	N	3	5.106	3.817
+Craticula buderi	Micro	Motile	Unicellular life form	Unattached	N	4	5.292	4.192
+Craticula citrus	Nano	Motile	Unicellular life form	Unattached	N	3	5.076	3.872
+Craticula cuspidata	Macro	Motile	Unicellular life form	Unattached	N	3.4	5	3
+Craticula minusculoides	Micro	Low profile	Unicellular life form	Weak attachment	N	4	5.144	3.867
+Craticula molestiformis	Nano	Motile	Unicellular life form	Unattached	N	4	5	4
+Craticula perrotettii	Micro	Low profile	Unicellular life form	Weak attachment	N	4	5.306	4.335
+Craticula riparia	Macro	Motile	Unicellular life form	Unattached	N	3.628	5.078	3.765
+Craticula spp.	Micro	Low profile	Unicellular life form	Weak attachment	N	3.65	5.079	3.799
+Craticula subminuscula	Micro	Low profile	Unicellular life form	Weak attachment	N	3.605	5	4
+Craticula submolesta	Micro	Low profile	Unicellular life form	Weak attachment	N	4	5.075	3.808
+Ctenophora pulchella	Macro	Low profile	Unicellular life form	Weak attachment	N	3	5	3
+Cyclostephanos dubius	Meso	Low profile	Colonial life form	Unattached	N	3	5	2
+Cyclostephanos invisitatus	Meso	Low profile	Unicellular life form	Unattached	N	3.4	5	2
+Cyclostephanos spp.	Meso	Low profile	Unicellular life form	Weak attachment	N	3.138	5	2
+Cyclotella asterocostata	Macro	Low profile	Unicellular life form	Weak attachment	N	2	5	2.602
+Cyclotella atomus	Nano	Low profile	Unicellular life form	Weak attachment	N	4	5	2
+Cyclotella atomus var. gracilis	Macro	Low profile	Unicellular life form	Weak attachment	N	3	5	3.113
+Cyclotella baltica	Macro	Low profile	Unicellular life form	Weak attachment	N	2.629	5	3.169
+Cyclotella bodanica	Macro	Low profile	Unicellular life form	Weak attachment	N	2.596	5	3.901
+Cyclotella bodanica var. lemanica	Macro	Low profile	Unicellular life form	Weak attachment	N	1	5	3.129
+Cyclotella catenata	Macro	Low profile	Unicellular life form	Weak attachment	N	2	5	2.799
+Cyclotella comta	Macro	Low profile	Unicellular life form	Weak attachment	N	2	5	2.603
+Cyclotella costei	Macro	Low profile	Unicellular life form	Weak attachment	N	1	5	3.929
+Cyclotella distinguenda	Macro	Low profile	Unicellular life form	Unattached	N	2.603	5	1
+Cyclotella hubeiana	Macro	Low profile	Unicellular life form	Weak attachment	N	2.457	5	3.054
+Cyclotella kuetzingiana	Macro	Low profile	Unicellular life form	Weak attachment	N	3	5	2.668
+Cyclotella meduanae	Macro	Low profile	Unicellular life form	Weak attachment	N	4	5	3.357
+Cyclotella meneghiniana	Macro	Low profile	Unicellular life form	Weak attachment	N	4	5	5
+Cyclotella ocellata	Macro	Low profile	Unicellular life form	Weak attachment	N	3	5	3.727
+Cyclotella pseudostelligera	Macro	Low profile	Unicellular life form	Weak attachment	N	2	5	3.044
+Cyclotella spp.	Macro	Low profile	Unicellular life form	Weak attachment	N	2.58	5	3.096
+Cyclotella stelligera	Macro	Low profile	Unicellular life form	Weak attachment	N	1.8	5	3.145
+Cylindrotheca gracilis	Macro	Motile	Unicellular life form	Unattached	N	4.2	3	1
+Cymatopleura elliptica	Macro	Motile	Unicellular life form	Weak attachment	N	2	3	1
+Cymatopleura elliptica var. constricta	Macro	Motile	Unicellular life form	Weak attachment	N	2	3	1
+Cymatopleura solea	Macro	Motile	Unicellular life form	Weak attachment	N	2	4	1
+Cymatopleura solea var. apiculata	Macro	Motile	Unicellular life form	Weak attachment	N	2	4	2
+Cymbella aequalis	Meso	Low profile	Unicellular life form	Medium attachment	N	1.4	4.644	1.261
+Cymbella affinis	Meso	Motile	Unicellular life form	Strong attachment	N	1.457	4.828	1.217
+Cymbella algida	Meso	Low profile	Unicellular life form	Medium attachment	N	1.288	5.589	1.202
+Cymbella alpina	Meso	Low profile	Unicellular life form	Medium attachment	N	1	5.529	1.221
+Cymbella alpina var. minuta	Macro	Low profile	Unicellular life form	Medium attachment	N	1.339	4.984	1.121
+Cymbella amphicephala	Meso	Low profile	Unicellular life form	Medium attachment	N	2	4.57	1.446
+Cymbella amphioxys	Meso	Low profile	Unicellular life form	Medium attachment	N	1	4.684	1.138
+Cymbella arcus	Meso	Low profile	Unicellular life form	Medium attachment	N	1.605	5.634	1.173
+Cymbella aspera	Large	Motile	Unicellular life form	Strong attachment	N	2	7	1
+Cymbella australica	Meso	Low profile	Unicellular life form	Medium attachment	N	1.482	4.968	1.259
+Cymbella bremii	Meso	Low profile	Unicellular life form	Medium attachment	N	1.515	4.436	1.213
+Cymbella borealis	Meso	Low profile	Unicellular life form	Medium attachment	N	1.625	6.087	1.192
+Cymbella cistula	Macro	Low profile	Unicellular life form	Medium attachment	N	2	5	2
+Cymbella cistula var. maculata	Macro	Low profile	Unicellular life form	Medium attachment	N	2	5.875	1.224
+Cymbella cistula var. gibbosa	Macro	Low profile	Unicellular life form	Medium attachment	N	2	5.584	1.183
+Cymbella cistuliformis	Macro	Low profile	Unicellular life form	Medium attachment	N	1.48	4.663	1.316
+Cymbella compacta	Macro	Motile	Unicellular life form	Strong attachment	N	1	5.135	1.244
+Cymbella cuspidata	Macro	Low profile	Unicellular life form	Medium attachment	N	1	4.269	1.257
+Cymbella cymbiformis	Large	Motile	Unicellular life form	Strong attachment	N	2	2	1
+Cymbella delicatula	Macro	Low profile	Unicellular life form	Medium attachment	N	1	4.589	1.139
+Cymbella ehrenbergii	Macro	Low profile	Unicellular life form	Medium attachment	N	1	5.525	1.175
+Cymbella excisa	Macro	Low profile	Unicellular life form	Medium attachment	N	1.44	5	1
+Cymbella excisa var. procera	Macro	Low profile	Unicellular life form	Medium attachment	N	2	4.454	1.192
+Cymbella excisa var. subcapitata	Macro	Low profile	Unicellular life form	Medium attachment	N	1.611	4.3	1.074
+Cymbella excisiformis	Macro	Motile	Unicellular life form	Strong attachment	N	1.49	5.306	1.213
+Cymbella fontinalis	Macro	Motile	Unicellular life form	Unattached	N	1.626	5.333	1.236
+Cymbella gaeumanni	Macro	Low profile	Unicellular life form	Medium attachment	N	1.454	5.884	1.191
+Cymbella gracilis	Macro	Low profile	Unicellular life form	Medium attachment	N	1	4.259	1.261
+Cymbella hantzschiana	Macro	Motile	Unicellular life form	Strong attachment	N	1.489	5.305	1.205
+Cymbella helvatica	Macro	Low profile	Unicellular life form	Medium attachment	N	2	5.584	1.183
+Cymbella hustedtii	Micro	Motile	Unicellular life form	Strong attachment	N	1.476	4.862	1.257
+Cymbella japonica	Macro	Low profile	Unicellular life form	Medium attachment	N	1.554	5.584	1.224
+Cymbella jolmolungmensis	Macro	Low profile	Unicellular life form	Medium attachment	N	1.721	4.503	1.106
+Cymbella kolbei	Macro	Low profile	Unicellular life form	Medium attachment	N	1.547	5.114	1.229
+Cymbella lacustris	Macro	Low profile	Unicellular life form	Medium attachment	N	1	5.609	1.2
+Cymbella laevis	Nano	Motile	Unicellular life form	Strong attachment	N	1.487	5.51	1.227
+Cymbella lanceolata	Large	Motile	Unicellular life form	Strong attachment	N	1.487	7	1
+Cymbella lapponica	Macro	Low profile	Unicellular life form	Medium attachment	N	1.605	5.634	1.173
+Cymbella lata	Macro	Low profile	Unicellular life form	Medium attachment	N	1.366	5.68	1.198
+Cymbella leptoceros	Macro	Low profile	Unicellular life form	Medium attachment	N	1	4.703	1.32
+Cymbella liyangensis	Macro	Low profile	Unicellular life form	Medium attachment	N	1.525	4.547	1.207
+Cymbella microcephala	Macro	Low profile	Unicellular life form	Medium attachment	N	2	5.337	1.186
+Cymbella naviculiformis	Macro	Low profile	Unicellular life form	Medium attachment	N	2.2	5.38	1.08
+Cymbella neocistula	Macro	Motile	Unicellular life form	Strong attachment	N	1.467	5	2
+Cymbella neoleptoceros	Macro	Motile	Unicellular life form	Strong attachment	N	1.524	4.672	1.161
+Cymbella parva	Macro	Motile	Unicellular life form	Strong attachment	N	1	4.575	1.197
+Cymbella perpusilla	Macro	Low profile	Unicellular life form	Medium attachment	N	1	5.798	1.233
+Cymbella prostrata	Macro	Low profile	Unicellular life form	Medium attachment	N	2	5.534	1.234
+Cymbella proxima	Large	Motile	Unicellular life form	Strong attachment	N	1.47	3	1.274
+Cymbella pusilla	Macro	Low profile	Unicellular life form	Medium attachment	N	1	4.681	1.44
+Cymbella rupicola	Macro	Low profile	Unicellular life form	Medium attachment	N	1	4.682	1.108
+Cymbella sinnata	Macro	Low profile	Unicellular life form	Medium attachment	N	1.583	5.525	1.192
+Cymbella spp.	Macro	Low profile	Unicellular life form	Medium attachment	N	1.394	5.063	1.21
+Cymbella sphaerophora	Macro	Low profile	Unicellular life form	Medium attachment	N	1.371	4.48	1.183
+Cymbella stigmaphora	Macro	Motile	Unicellular life form	Strong attachment	N	1.535	4.659	1.241
+Cymbella stuxbergii	Macro	Low profile	Unicellular life form	Medium attachment	N	1.632	5.539	1.198
+Cymbella subcistula	Macro	Low profile	Unicellular life form	Medium attachment	N	1.5	4.421	1.252
+Cymbella subleptoceros	Macro	Motile	Unicellular life form	Strong attachment	N	1	4.482	1.179
+Cymbella subtruncata	Macro	Low profile	Unicellular life form	Medium attachment	N	1.498	4.603	1.403
+Cymbella subturgidula	Macro	Motile	Unicellular life form	Strong attachment	N	1.488	4.548	1.326
+Cymbella tropica	Macro	Motile	Unicellular life form	Strong attachment	N	1.549	4.151	1.216
+Cymbella tumida	Large	Motile	Colonial life form	Strong attachment	N	3	4	1
+Cymbella tumidula	Meso	Low profile	Unicellular life form	Medium attachment	N	2	6.049	1.213
+Cymbella turgidula	Macro	Motile	Unicellular life form	Strong attachment	N	1.655	4.059	1.169
+Cymbella ventricosa	Macro	Low profile	Unicellular life form	Medium attachment	N	1.2	4.259	1.244
+Cymbella vulgata	Macro	Motile	Unicellular life form	Strong attachment	N	1.379	3.995	1.259
+Cymbopleura amphicephala	Large	Motile	Unicellular life form	Unattached	N	2	5	2
+Cymbopleura hercynica	Macro	Low profile	Unicellular life form	Medium attachment	N	1	5	2
+Cymbopleura kuelbsii	Macro	Low profile	Unicellular life form	Medium attachment	N	1.49	5	2
+Cymbopleura lapponica	Macro	Motile	Unicellular life form	Unattached	N	1.587	5	2
+Cymbopleura lata	Macro	Motile	Unicellular life form	Unattached	N	1.449	5	2
+Cymbopleura naviculiformis	Macro	Motile	Unicellular life form	Unattached	N	1.438	5	2
+Cymbopleura spp.	Macro	Low profile	Unicellular life form	Medium attachment	N	1.464	5	2
+Cymbopleura subclavatum	Macro	Low profile	Unicellular life form	Medium attachment	N	1.482	5	2
+Delicata delicatula	Meso	High profile	Unicellular life form	Weak attachment	N	1.46	4.62	2.484
+Denticula creticola	Nano	Motile	Unicellular life form	Unattached	N	3.774	5.18	3.955
+Denticula kuetzingii	Meso	Motile	Unicellular life form	Unattached	N	3.774	5.18	3.955
+Diadesmis confervacea	Meso	Motile	Unicellular life form	Strong attachment	N	2	5	3
+Diadesmis contenta	Meso	Motile	Unicellular life form	Weak attachment	N	2	5	3
+Diatoma anceps	Meso	High profile	Colonial life form	Weak attachment	N	1	4.678	2.816
+Diatoma ehrenbergii	Large	High profile	Unicellular life form	Unattached	N	2	4.658	2.488
+Diatoma moniliformis	Meso	High profile	Colonial life form	Weak attachment	N	1.463	5	2.554
+Diatoma spp.	Meso	High profile	Colonial life form	Weak attachment	N	1.432	4.569	2.108
+Diatoma tenuis	Meso	High profile	Unicellular life form	Unattached	N	1.289	5	3
+Diatoma vulgaris	Large	High profile	Colonial life form	Weak attachment	N	2	4	2
+Diatoma vulgaris var. lineare	Large	High profile	Colonial life form	Weak attachment	N	1.498	4.619	2.638
+Diatoma vulgaris var. ovalis	Large	High profile	Colonial life form	Weak attachment	N	1	4.435	2.269
+Diatomella balfouriana	Large	Motile	Unicellular life form	Weak attachment	N	1	4	3
+Didymosphenia geminata	Large	High profile	Colonial life form	Weak attachment	N	4	3	1
+Didymosphenia spp.	Large	High profile	Colonial life form	Weak attachment	N	4	3	1
+Diploneis boldtiana	Large	Motile	Unicellular life form	Unattached	N	1	4	2
+Diploneis calcilacustris	Large	Motile	Unicellular life form	Unattached	N	1.334	3	1
+Diploneis elliptica	Large	Motile	Unicellular life form	Unattached	N	1	3	1
+Diploneis finnica	Large	Motile	Unicellular life form	Unattached	N	1.503	4	1
+Diploneis fontanella	Large	Low profile	Colonial life form	Weak attachment	N	1.492	4	1
+Diploneis marginestriata	Large	Low profile	Colonial life form	Weak attachment	N	1	3	1
+Diploneis minuta	Large	Low profile	Colonial life form	Weak attachment	N	1	3	1
+Diploneis oblongella	Large	Low profile	Colonial life form	Weak attachment	N	2	4	3
+Diploneis ovalis	Large	Motile	Unicellular life form	Unattached	N	2	4	1
+Diploneis petersenii	Large	Low profile	Colonial life form	Weak attachment	N	1.415	3	1
+Diploneis pseudoovalis	Large	Low profile	Colonial life form	Weak attachment	N	1.443	3	1
+Diploneis spp.	Large	Low profile	Colonial life form	Weak attachment	N	1.444	3	2
+Diploneis subconstricta	Large	Low profile	Colonial life form	Weak attachment	N	2	2	1
+Diploneis subovalis	Large	Low profile	Colonial life form	Weak attachment	N	1.5	2	2
+Discostella asterocostata	Macro	Low profile	Unicellular life form	Unattached	N	2	5	3
+Discostella lakuskarluki	Macro	Low profile	Unicellular life form	Weak attachment	N	1.98	5	3
+Discostella pseudostelligera	Nano	Low profile	Unicellular life form	Weak attachment	N	2	5	3
+Discostella stelligera	Macro	Low profile	Unicellular life form	Weak attachment	N	1.8	5	3
+Discostella stelligeroides	Macro	Low profile	Unicellular life form	Weak attachment	N	2	5	3
+Discostella woltereckii	Macro	Low profile	Unicellular life form	Weak attachment	N	2	5	3
+Encyonema appalachianum	Micro	Motile	Colonial life form	Strong attachment	N	1.417	6.566	2.149
+Encyonema auerswaldii	Macro	Motile	Unicellular life form	Strong attachment	N	2	6.271	2.094
+Encyonema brevicapitatum	Micro	High profile	Colonial life form	Weak attachment	N	1	6.447	1.997
+Encyonema caespitosum	Micro	High profile	Colonial life form	Weak attachment	N	1.35	7	2.088
+Encyonema elginense	Micro	High profile	Colonial life form	Weak attachment	N	1	6.43	2.03
+Encyonema elginense var. stigmoideum	Micro	High profile	Colonial life form	Weak attachment	N	1.506	6.624	2.11
+Encyonema gracile	Micro	High profile	Colonial life form	Weak attachment	N	1	6.628	2.146
+Encyonema hophense	Micro	High profile	Colonial life form	Weak attachment	N	1.323	6.519	1.657
+Encyonema lacustre	Micro	High profile	Colonial life form	Weak attachment	N	1	6.589	2.11
+Encyonema lange-bertalotii	Micro	Motile	Colonial life form	Strong attachment	N	1.169	6.562	1.965
+Encyonema latens	Micro	High profile	Colonial life form	Weak attachment	N	2	6.548	2.076
+Encyonema leei	Micro	High profile	Colonial life form	Weak attachment	N	1.372	6.668	1.914
+Encyonema leibleinii	Large	Motile	Colonial life form	Strong attachment	N	1.415	6.644	2.161
+Encyonema minutum	Micro	Motile	Unicellular life form	Unattached	N	2	6.307	2.144
+Encyonema neogracile	Micro	Motile	Colonial life form	Strong attachment	N	1	6.191	1.963
+Encyonema neomesianum	Micro	High profile	Colonial life form	Weak attachment	N	1	6.374	1.973
+Encyonema perlangebertalotii	Micro	High profile	Colonial life form	Weak attachment	N	1.339	6.605	1.82
+Encyonema perpusillum	Micro	High profile	Colonial life form	Weak attachment	N	1	6.556	1.96
+Encyonema procerum	Macro	Motile	Colonial life form	Strong attachment	N	1.414	6.678	2.098
+Encyonema prostratum	Micro	High profile	Colonial life form	Weak attachment	N	2	5	1
+Encyonema reichardtii	Nano	Motile	Unicellular life form	Strong attachment	N	1.5	6.811	2.1
+Encyonema silesiacum	Macro	Motile	Colonial life form	Strong attachment	N	1	7	3
+Encyonema spp.	Micro	High profile	Colonial life form	Weak attachment	N	1.544	6.657	2.296
+Encyonema ventricosum	Micro	High profile	Colonial life form	Weak attachment	N	1.2	6.588	2.104
+Encyonema ventricosum var. angusta	Micro	High profile	Colonial life form	Weak attachment	N	1.411	6.643	1.939
+Encyonema vulgare	Micro	High profile	Colonial life form	Weak attachment	N	1.349	6.648	2.131
+Encyonema wojytalae	Micro	High profile	Colonial life form	Weak attachment	N	1.258	6.643	2.186
+Encyonopsis alpina	Nano	Motile	Unicellular life form	Unattached	N	1	2.694	1
+Encyonopsis cesatiformis	Micro	Motile	Unicellular life form	Unattached	N	1.318	2.441	1
+Encyonopsis descripta	Macro	Motile	Unicellular life form	Unattached	N	1	2.604	1
+Encyonopsis gomphonemiformis	Micro	High profile	Colonial life form	Weak attachment	N	1.316	2.562	1
+Encyonopsis hustedtii	Nano	Motile	Unicellular life form	Unattached	N	1.343	2.396	1
+Encyonopsis krammeri	Meso	Motile	Unicellular life form	Unattached	N	1	2.527	1
+Encyonopsis leei	Meso	High profile	Colonial life form	Weak attachment	N	1.495	2.559	1
+Encyonopsis microcephala	Nano	Motile	Unicellular life form	Weak attachment	N	2	4	1
+Encyonopsis minuta	Nano	Motile	Unicellular life form	Unattached	N	2	2.589	1
+Encyonopsis subminuta	Nano	Motile	Unicellular life form	Weak attachment	N	1	1	1
+Entomoneis paludosa	Meso	Motile	Unicellular life form	Unattached	N	2.5	5	4
+Entomoneis triundulata	Meso	High profile	Colonial life form	Weak attachment	N	2.5	5	4
+Eolimna archibaldii	Micro	Motile	Colonial life form	Weak attachment	N	3.876	4	2
+Eolimna comperei	Micro	Motile	Colonial life form	Weak attachment	N	4.5	4	3
+Eolimna minima	Micro	Motile	Colonial life form	Weak attachment	N	3.8	3	2
+Eolimna subminuscula	Micro	Motile	Colonial life form	Weak attachment	N	4	5	1
+Eolimna tantula	Micro	Motile	Colonial life form	Weak attachment	N	3	5	1
+Epithemia adnata	Large	Motile	Colonial life form	Weak attachment	Y	2	4.744	2
+Epithemia argus	Large	Motile	Unicellular life form	Unattached	Y	2	4.654	2
+Epithemia frickei	Large	Motile	Colonial life form	Weak attachment	Y	2	4.576	2
+Epithemia sorex	Large	Motile	Colonial life form	Weak attachment	Y	2	5	2
+Epithemia turgida	Large	Motile	Colonial life form	Weak attachment	Y	2	4	2
+Eucocconeis flexella	Large	Low profile	Unicellular life form	Strong attachment	N	1	1	1
+Eucocconeis laevis	Large	Low profile	Unicellular life form	Strong attachment	N	1	1	1
+Eucocconeis lapponica	Large	Low profile	Unicellular life form	Strong attachment	N	1	1	1
+Eunotia bilunaris	Large	High profile	Unicellular life form	Weak attachment	N	1	7	2
+Eunotia botuliformis	Macro	High profile	Unicellular life form	Weak attachment	N	1	5.183	1.512
+Eunotia glacialispinosa	Macro	High profile	Unicellular life form	Weak attachment	N	1.117	4.979	1.52
+Eunotia incisa	Macro	Motile	Unicellular life form	Weak attachment	N	1.101	5.036	1.534
+Eunotia indica	Macro	High profile	Unicellular life form	Weak attachment	N	1.064	5.521	1.505
+Eunotia latinasuta	Macro	High profile	Unicellular life form	Weak attachment	N	1.075	5.576	1.504
+Eunotia minor	Macro	High profile	Unicellular life form	Weak attachment	N	1.4	5.493	1.474
+Eunotia muscicola	Macro	High profile	Unicellular life form	Weak attachment	N	1.104	4.332	1.472
+Eunotia naegelii	Macro	High profile	Unicellular life form	Weak attachment	N	1	5.239	1.509
+Eunotia obliquestriata	Macro	High profile	Unicellular life form	Weak attachment	N	1.072	5.214	1.492
+Eunotia paludosa	Macro	Motile	Unicellular life form	Weak attachment	N	1	5.239	1.509
+Eunotia pectinalis	Large	High profile	Unicellular life form	Weak attachment	N	1.142	3	1
+Eunotia pectinalis var. minor	Macro	High profile	Unicellular life form	Weak attachment	N	1.4	4.625	1.522
+Eunotia perpusilla	Nano	Low profile	Unicellular life form	Unattached	N	1.099	5.119	1.508
+Eunotia pomeranica	Macro	High profile	Unicellular life form	Weak attachment	N	1.135	5.252	1.494
+Eunotia scandiorussica	Macro	High profile	Unicellular life form	Weak attachment	N	1.125	4.613	1.545
+Eunotia soleirolii	Macro	High profile	Unicellular life form	Weak attachment	N	1	5.338	1.512
+Eunotia spp.	Macro	High profile	Unicellular life form	Weak attachment	N	1.034	5.272	1.618
+Eunotia tenella	Macro	Low profile	Unicellular life form	Weak attachment	N	1	5.394	1.506
+Eunotogramma laevis	Large	Low profile	Unicellular life form	Strong attachment	N	1.1	3	1
+Fallacia insociabilis	Micro	Low profile	Unicellular life form	Strong attachment	N	3	5	3
+Fallacia losevae	Micro	Low profile	Unicellular life form	Strong attachment	N	2.706	5	3
+Fallacia pygmaea	Micro	Motile	Unicellular life form	Weak attachment	N	2.665	5	3
+Fallacia spp.	Micro	Low profile	Unicellular life form	Strong attachment	N	2.634	5	3
+Fallacia subhamulata	Nano	Motile	Unicellular life form	Unattached	N	2	5	3
+Fallacia sublucidula	Micro	Low profile	Unicellular life form	Strong attachment	N	3	5	3
+Fallacia tenera	Micro	Motile	Unicellular life form	Weak attachment	N	3	5	3
+Fistulifera pelliculosa	Micro	Low profile	Unicellular life form	Strong attachment	N	3	5	4
+Fistulifera saprophila	Micro	Low profile	Unicellular life form	Strong attachment	N	4	5	4
+Fragilaria austriaca	Large	High profile	Unicellular life form	Weak attachment	N	1	2.745	1.671
+Fragilaria bidens	Large	High profile	Unicellular life form	Weak attachment	N	1	5	1
+Fragilaria brevistriata	Large	High profile	Unicellular life form	Weak attachment	N	3	3.218	1.793
+Fragilaria capitellata	Large	High profile	Unicellular life form	Weak attachment	N	2	3.063	1.341
+Fragilaria capucina	Large	High profile	Unicellular life form	Weak attachment	N	1.824	3	1.331
+Fragilaria capucina var. mesolepta	Large	High profile	Unicellular life form	Weak attachment	N	1.5	2.627	1.349
+Fragilaria capucina var. rumpens	Large	High profile	Unicellular life form	Weak attachment	N	2	3.414	1.389
+Fragilaria crotonensis	Large	High profile	Unicellular life form	Unattached	N	2	3	2
+Fragilaria crotonensis var. oregona	Large	High profile	Unicellular life form	Weak attachment	N	1.512	3.127	1.819
+Fragilaria delicatissima	Large	High profile	Unicellular life form	Weak attachment	N	2	3	1.185
+Fragilaria endosymbiont	Large	High profile	Unicellular life form	Weak attachment	N	1.828	3.225	1.339
+Fragilaria fragilarioides	Large	High profile	Unicellular life form	Weak attachment	N	1	2.643	1.298
+Fragilaria gracilis	Large	High profile	Unicellular life form	Weak attachment	N	1.2	2	1
+Fragilaria grunowi	Large	High profile	Unicellular life form	Weak attachment	N	1.761	2.995	1.303
+Fragilaria harrissonii	Large	High profile	Unicellular life form	Weak attachment	N	1.705	2.833	1.354
+Fragilaria incisa	Large	High profile	Unicellular life form	Weak attachment	N	1.404	2.491	1.511
+Fragilaria intermedia	Large	High profile	Unicellular life form	Weak attachment	N	2.6	3.335	1.41
+Fragilaria nanana	Large	High profile	Unicellular life form	Weak attachment	N	1	2	1
+Fragilaria neointermedia	Large	High profile	Unicellular life form	Weak attachment	N	1.512	2.77	1.874
+Fragilaria nevadensis	Large	High profile	Unicellular life form	Weak attachment	N	1.854	3.393	1.419
+Fragilaria pararumpens	Large	High profile	Unicellular life form	Weak attachment	N	1.62	2.86	2.055
+Fragilaria pectinalis	Large	High profile	Unicellular life form	Weak attachment	N	1.649	2.846	1.717
+Fragilaria perminuta	Large	High profile	Unicellular life form	Weak attachment	N	2	3.048	1.138
+Fragilaria pinnata	Large	High profile	Unicellular life form	Weak attachment	N	1.847	3.116	1.337
+Fragilaria radians	Large	High profile	Unicellular life form	Weak attachment	N	2	2.899	2.012
+Fragilaria recapitellata	Large	High profile	Unicellular life form	Weak attachment	N	2	3.726	1.296
+Fragilaria socia	Large	High profile	Unicellular life form	Weak attachment	N	1.586	2.857	1.323
+Fragilaria spp.	Large	High profile	Unicellular life form	Weak attachment	N	1.899	3.022	1.265
+Fragilaria synegrotesca	Large	High profile	Unicellular life form	Weak attachment	N	1.761	3.342	1.864
+Fragilaria tenera	Large	High profile	Unicellular life form	Weak attachment	N	2	2	1
+Fragilaria tenera var. lemanensis	Large	High profile	Unicellular life form	Weak attachment	N	2	2.794	1.738
+Fragilaria vaucheriae	Large	High profile	Unicellular life form	Strong attachment	N	2.6	5	3
+Fragilaria vaucheriae var. distans	Large	High profile	Unicellular life form	Weak attachment	N	1.2	2.936	1.67
+Fragilaria vaucheriae var. elliptica	Large	High profile	Unicellular life form	Weak attachment	N	1.786	2.865	1.349
+Fragilaria virescens	Large	High profile	Unicellular life form	Weak attachment	N	1	3.197	1.518
+Fragilariforma mesolepta	Large	High profile	Unicellular life form	Weak attachment	N	1.733	3.04	1.505
+Frustulia crassinervia	Large	Motile	Colonial life form	Unattached	N	1	1	1
+Frustulia hengduanensis	Large	High profile	Unicellular life form	Weak attachment	N	1.406	1.762	1
+Frustulia marginata	Large	High profile	Unicellular life form	Weak attachment	N	2	2.716	1
+Frustulia rhomboides	Large	High profile	Unicellular life form	Weak attachment	N	1	2.853	1
+Frustulia spp.	Large	High profile	Unicellular life form	Weak attachment	N	1.468	2.64	1
+Frustulia vulgaris	Large	Motile	Unicellular life form	Strong attachment	N	2	4	1
+Geissleria acceptata	Micro	High profile	Unicellular life form	Weak attachment	N	1.5	4	4
+Geissleria decussis	Micro	High profile	Unicellular life form	Weak attachment	N	1.2	4	2
+Geissleria ignota	Micro	Motile	Unicellular life form	Unattached	N	3	4	3
+Gomphoneis olivaceoides	Meso	High profile	Colonial life form	Strong attachment	N	1	4	1
+Gomphoneis olivaceum	Meso	High profile	Colonial life form	Strong attachment	N	1	4	1
+Gomphonella olivacea	Meso	Motile	Colonial life form	Strong attachment	N	1.924	3.014	1.466
+Gomphonema abbreviatum	Macro	High profile	Colonial life form	Strong attachment	N	4	2.783	1.574
+Gomphonema acidoclinatiforme	Macro	High profile	Colonial life form	Strong attachment	N	1.5	3.154	1.591
+Gomphonema acidoclinatum	Macro	High profile	Colonial life form	Strong attachment	N	1.8	2.943	1.123
+Gomphonema acuminatum	Macro	Motile	Unicellular life form	Medium attachment	N	1.96	5	2
+Gomphonema acuminatum var. coronata	Macro	High profile	Colonial life form	Strong attachment	N	1.97	2.862	1.58
+Gomphonema aequale	Macro	High profile	Colonial life form	Strong attachment	N	1.827	2.969	1.332
+Gomphonema affine	Macro	High profile	Colonial life form	Strong attachment	N	2	3	1
+Gomphonema americobtusatum	Macro	Motile	Colonial life form	Weak attachment	N	1	2.916	1.242
+Gomphonema angustatum	Macro	High profile	Colonial life form	Strong attachment	N	3	3.209	1.891
+Gomphonema angustatum var. producta	Meso	High profile	Colonial life form	Strong attachment	N	2.2	2.839	1.578
+Gomphonema angustatum?var. ?intermedium	Meso	High profile	Colonial life form	Strong attachment	N	1.907	3.273	1.378
+Gomphonema angustivalva	Meso	High profile	Colonial life form	Strong attachment	N	1	3.481	1.475
+Gomphonema apicatum	Macro	Motile	Unicellular life form	Medium attachment	N	3	3.208	1.48
+Gomphonema asiaticum	Macro	High profile	Colonial life form	Strong attachment	N	2.158	2.621	1.347
+Gomphonema augur	Macro	High profile	Colonial life form	Strong attachment	N	3	2.91	1.323
+Gomphonema augur var. sphaerophorum	Macro	High profile	Colonial life form	Strong attachment	N	3	3.291	1.625
+Gomphonema auritum	Macro	High profile	Colonial life form	Strong attachment	N	1	3.279	1.808
+Gomphonema berggrenii	Macro	High profile	Colonial life form	Strong attachment	N	1.807	3.13	1.348
+Gomphonema biceps	Macro	High profile	Colonial life form	Strong attachment	N	1	2.739	1.63
+Gomphonema carolinense	Macro	High profile	Colonial life form	Strong attachment	N	3	3.019	1.319
+Gomphonema clavatum	Macro	High profile	Colonial life form	Strong attachment	N	1	3	1
+Gomphonema clevei	Macro	High profile	Colonial life form	Strong attachment	N	1	2.698	1.662
+Gomphonema consector	Nano	High profile	Unicellular life form	Strong attachment	N	2.028	3.484	1.498
+Gomphonema constrictum	Macro	High profile	Colonial life form	Strong attachment	N	1	3.169	1.618
+Gomphonema constrictum var. capitata	Macro	High profile	Colonial life form	Strong attachment	N	1.839	2.951	1.518
+Gomphonema constrictum var. ventricosum	Macro	High profile	Colonial life form	Strong attachment	N	1.784	3.174	1.2
+Gomphonema dichotomum	Macro	High profile	Colonial life form	Strong attachment	N	1	4	1
+Gomphonema exilissimum	Macro	High profile	Colonial life form	Strong attachment	N	1	1	1
+Gomphonema gracile	Macro	High profile	Colonial life form	Strong attachment	N	1.8	3	1
+Gomphonema gracile var. major	Macro	High profile	Colonial life form	Strong attachment	N	1	3.037	1.518
+Gomphonema graciledictum	Macro	High profile	Colonial life form	Strong attachment	N	1.876	2.721	1.404
+Gomphonema grunowii	Macro	High profile	Colonial life form	Strong attachment	N	1.8	1.926	1.261
+Gomphonema hebridense	Macro	High profile	Colonial life form	Strong attachment	N	2	3.179	1
+Gomphonema helveticum	Macro	High profile	Colonial life form	Strong attachment	N	1	2.808	1.59
+Gomphonema hubeiicum	Macro	High profile	Colonial life form	Strong attachment	N	1.83	2.966	1.367
+Gomphonema incognitum	Large	Motile	Unicellular life form	Strong attachment	N	1.992	2.737	1.324
+Gomphonema innocens	Macro	High profile	Colonial life form	Strong attachment	N	1.858	3.082	1.331
+Gomphonema insigne	Macro	High profile	Colonial life form	Strong attachment	N	2	3.313	1.325
+Gomphonema insularum	Macro	Motile	Colonial life form	Strong attachment	N	1.854	2.899	1.422
+Gomphonema intermedium	Macro	High profile	Colonial life form	Strong attachment	N	1.862	2.791	1.251
+Gomphonema intricatum	Meso	High profile	Colonial life form	Strong attachment	N	1	1	1
+Gomphonema intricatum var. dichotomum	Meso	High profile	Colonial life form	Strong attachment	N	1	3.168	1.414
+Gomphonema intricatum var. fossile	Meso	High profile	Colonial life form	Strong attachment	N	1.967	2.756	1.541
+Gomphonema intricatum var. pumilum	Meso	High profile	Colonial life form	Strong attachment	N	1.773	1.954	1.341
+Gomphonema italicum	Macro	High profile	Colonial life form	Strong attachment	N	2	3.171	1.31
+Gomphonema jadwigiae	Macro	High profile	Colonial life form	Strong attachment	N	1	1.71	1.195
+Gomphonema kobayasii	Macro	Motile	Unicellular life form	Strong attachment	N	1.832	3.268	1.391
+Gomphonema lagenula	Macro	Motile	Colonial life form	Strong attachment	N	4	3.184	1.573
+Gomphonema lagerheimii	Macro	High profile	Colonial life form	Strong attachment	N	2	3.23	1.559
+Gomphonema lanceolatum	Macro	High profile	Colonial life form	Strong attachment	N	2	3.338	1.368
+Gomphonema lateripunctatum	Macro	High profile	Colonial life form	Strong attachment	N	1	3.083	1.552
+Gomphonema laticollum	Macro	High profile	Colonial life form	Strong attachment	N	1	3.275	1.493
+Gomphonema lingulatiformis	Macro	High profile	Colonial life form	Strong attachment	N	4	3.195	1.401
+Gomphonema lippertii	Macro	High profile	Colonial life form	Strong attachment	N	1	2.83	1.427
+Gomphonema medioasiae	Macro	High profile	Colonial life form	Strong attachment	N	1.944	2.732	1.609
+Gomphonema meridionalum	Macro	High profile	Colonial life form	Strong attachment	N	1.699	2.244	1.254
+Gomphonema mexicanum	Macro	Motile	Unicellular life form	Medium attachment	N	2.8	2.826	1.469
+Gomphonema microlanceolatum	Macro	High profile	Colonial life form	Strong attachment	N	1.831	2.672	1.308
+Gomphonema micropus	Macro	High profile	Colonial life form	Strong attachment	N	1.871	3.261	1.406
+Gomphonema minusulum	Macro	High profile	Colonial life form	Strong attachment	N	2.574	3.182	1.399
+Gomphonema minutum	Macro	High profile	Colonial life form	Strong attachment	N	1.784	5	1.825
+Gomphonema montanum var. suecium	Macro	High profile	Colonial life form	Strong attachment	N	1.661	1.983	1.22
+Gomphonema montanum var. acuminata	Macro	High profile	Colonial life form	Strong attachment	N	1.863	3.195	1.33
+Gomphonema navicelloides	Macro	High profile	Colonial life form	Strong attachment	N	1.755	1.69	1.131
+Gomphonema olivaceoides	Macro	High profile	Colonial life form	Strong attachment	N	1	2.95	1.419
+Gomphonema olivaceum	Macro	High profile	Colonial life form	Strong attachment	N	2.115	3.02	2.193
+Gomphonema pala	Macro	High profile	Colonial life form	Strong attachment	N	2	2.869	1.611
+Gomphonema parvuliforme	Macro	High profile	Colonial life form	Strong attachment	N	1.917	2.699	1.597
+Gomphonema parvulum	Macro	High profile	Colonial life form	Strong attachment	N	1.975	5	4
+Gomphonema parvulum f. saprophilum	Macro	High profile	Colonial life form	Strong attachment	N	1.687	2.867	1.589
+Gomphonema parvulum var. exilissimum	Micro	High profile	Colonial life form	Strong attachment	N	1	3.639	1.516
+Gomphonema parvulum var. lagenula	Macro	High profile	Colonial life form	Strong attachment	N	4	3.308	1.55
+Gomphonema parvulum var. subellipticum	Micro	High profile	Colonial life form	Strong attachment	N	4	3.071	1.611
+Gomphonema perolivaceoides	Macro	High profile	Colonial life form	Strong attachment	N	2.13	3.352	1.624
+Gomphonema preliciae	Macro	High profile	Colonial life form	Strong attachment	N	1.874	2.961	1.348
+Gomphonema productum	Macro	High profile	Colonial life form	Strong attachment	N	2.2	2	1
+Gomphonema pseodotenellum	Macro	High profile	Colonial life form	Strong attachment	N	1.778	3.288	1.519
+Gomphonema pseudoaugur	Macro	High profile	Colonial life form	Strong attachment	N	3	3.267	1.347
+Gomphonema pseudointermedium	Macro	High profile	Colonial life form	Strong attachment	N	2.03	3.377	1.587
+Gomphonema pseudosphaerophorum	Macro	Motile	Unicellular life form	Strong attachment	N	3	2.927	1.575
+Gomphonema pumilum	Macro	High profile	Colonial life form	Strong attachment	N	1.5	2.922	1.792
+Gomphonema pumilum var. rigidum	Macro	High profile	Colonial life form	Strong attachment	N	2.5	3.216	1.737
+Gomphonema punctatum	Macro	High profile	Colonial life form	Strong attachment	N	1.887	3.159	1.346
+Gomphonema reimeri	Macro	Motile	Unicellular life form	Strong attachment	N	1.94	2.656	1.306
+Gomphonema rhombicum	Macro	High profile	Colonial life form	Strong attachment	N	1	3.945	1.198
+Gomphonema rosenstockianum	Macro	High profile	Colonial life form	Strong attachment	N	1	3.157	1.46
+Gomphonema salae	Macro	High profile	Colonial life form	Strong attachment	N	1.964	3.242	1.314
+Gomphonema simus	Macro	High profile	Colonial life form	Strong attachment	N	1.924	3.171	1.383
+Gomphonema spp.	Macro	High profile	Colonial life form	Strong attachment	N	2.061	3.074	1.534
+Gomphonema sparsistriatum	Macro	High profile	Colonial life form	Strong attachment	N	1.853	2.612	1.471
+Gomphonema sphaerophorum	Macro	Low profile	Unicellular life form	Strong attachment	N	3	3.108	1.523
+Gomphonema striatula	Macro	High profile	Colonial life form	Strong attachment	N	1.887	3.147	1.494
+Gomphonema subbulbosum	Macro	High profile	Colonial life form	Strong attachment	N	2.185	3.452	1.567
+Gomphonema subclavatum	Macro	High profile	Colonial life form	Strong attachment	N	1	3.146	1.441
+Gomphonema tenellum	Macro	High profile	Colonial life form	Strong attachment	N	2	3.168	1.389
+Gomphonema tergestinum	Macro	High profile	Colonial life form	Strong attachment	N	2	2	1
+Gomphonema trancatum	Macro	High profile	Colonial life form	Strong attachment	N	2	3.006	1.561
+Gomphonema truncatum	Macro	Motile	Unicellular life form	Medium attachment	N	2	4	2
+Gomphonema turgidum	Macro	Motile	Unicellular life form	Strong attachment	N	1.924	2.896	1.237
+Gomphonema turris	Macro	High profile	Colonial life form	Strong attachment	N	2	3.061	1.3
+Gomphonema turris var. sinicum	Macro	High profile	Colonial life form	Strong attachment	N	2.036	2.742	1.465
+Gomphonema vardarense	Macro	High profile	Colonial life form	Strong attachment	N	1.908	3.23	1.714
+Gomphonema zellense	Macro	High profile	Colonial life form	Strong attachment	N	1.874	3.213	2.281
+Gomphosinica spp.	Macro	High profile	Colonial life form	Strong attachment	N	1.924	3.014	1.466
+Gomphosphenia biwaensis	Macro	High profile	Colonial life form	Strong attachment	N	4	3	2
+Gomphosphenia holmquistii	Macro	High profile	Colonial life form	Strong attachment	N	4	3	2
+Gomphosphenia lingulatiformis	Macro	Motile	Unicellular life form	Weak attachment	N	4	3	3
+Gomphosphenia spp.	Macro	High profile	Colonial life form	Strong attachment	N	4	4	3
+Grunowia solgensis	Nano	Motile	Unicellular life form	Unattached	N	3	4	1
+Grunowia tabellaria	Micro	Motile	Unicellular life form	Unattached	N	3	4	1
+Gyrosigma acuminatum	Macro	Motile	Unicellular life form	Unattached	N	2	5	3
+Gyrosigma kuetzingii	Micro	Low profile	Unicellular life form	Weak attachment	N	2	5	3
+Gyrosigma obtusatum	Large	Motile	Unicellular life form	Unattached	N	3.2	5	3
+Gyrosigma proceum	Micro	Low profile	Unicellular life form	Weak attachment	N	2.489	5	3
+Gyrosigma scalproides	Micro	Low profile	Unicellular life form	Weak attachment	N	3.2	5	3
+Gyrosigma spp.	Micro	Low profile	Unicellular life form	Weak attachment	N	2.506	5	3
+Gyrosigma spencerii	Micro	Low profile	Unicellular life form	Weak attachment	N	2	5	3
+Gyrosigma wormleyi	Micro	Low profile	Unicellular life form	Weak attachment	N	2.567	5	3
+Halamphora acutiuscula	Meso	Low profile	Unicellular life form	Weak attachment	N	2.541	4.252	2.107
+Halamphora auricularia	Meso	Low profile	Unicellular life form	Weak attachment	N	2.739	4.466	1.771
+Halamphora bullatoides	Meso	Low profile	Unicellular life form	Weak attachment	N	2.282	4.053	1.529
+Halamphora fontinalis	Meso	Low profile	Unicellular life form	Weak attachment	N	1.8	4.076	1.694
+Halamphora latecostata	Meso	Motile	Unicellular life form	Unattached	N	3.697	4.425	2.124
+Halamphora montana	Meso	Low profile	Unicellular life form	Weak attachment	N	3.2	5	1
+Halamphora normanii	Meso	Motile	Unicellular life form	Weak attachment	N	1.8	3	1
+Halamphora oligotraphenta	Meso	Motile	Unicellular life form	Weak attachment	N	1	4.346	1.769
+Halamphora subsalina	Meso	Low profile	Unicellular life form	Weak attachment	N	2.64	4.435	1.763
+Halamphora tenella	Meso	Low profile	Unicellular life form	Weak attachment	N	2.775	4.506	1.721
+Halamphora veneta	Meso	Low profile	Unicellular life form	Weak attachment	N	5	5	3
+Hannaea arcus	Macro	High profile	Unicellular life form	Weak attachment	N	1	2	1
+Hannaea arcus var. amphioxys	Macro	High profile	Unicellular life form	Weak attachment	N	1	2	1
+Hantzschia abundans	Meso	Motile	Unicellular life form	Weak attachment	N	4.8	7	2
+Hantzschia amphioxys	Large	Motile	Unicellular life form	Unattached	N	4.5	7	2
+Hantzschia amphioxys var. aequalis	Meso	Motile	Unicellular life form	Weak attachment	N	4.411	7	2
+Hantzschia distinctepunctata	Meso	Motile	Unicellular life form	Weak attachment	N	3.8	7	2
+Hantzschia elongaia	Meso	Motile	Unicellular life form	Weak attachment	N	4.452	7	2
+Hantzschia spp.	Meso	Motile	Unicellular life form	Weak attachment	N	4.369	7	2
+Haslea spicula	Micro	Low profile	Unicellular life form	Weak attachment	N	3.2	3	1
+Hippodonta avittata	Micro	Low profile	Unicellular life form	Weak attachment	N	1.7	4	3
+Hippodonta capitata	Micro	Motile	Unicellular life form	Unattached	N	2	4	3
+Hippodonta hungarica	Micro	Motile	Unicellular life form	Unattached	N	2	4	3
+Hippodonta linearis	Micro	Low profile	Unicellular life form	Weak attachment	N	2	4	3
+Hippodonta pseudacceptata	Nano	Motile	Unicellular life form	Unattached	N	1.859	4	3
+Humidophila contenta	Nano	Motile	Colonial life form	Unattached	N	3.48	5	2.4
+Hydrosera whampoensis	Large	High profile	Unicellular life form	Weak attachment	N	4	3	1
+Karayevia clevei	Macro	Low profile	Unicellular life form	Weak attachment	N	2	3	1
+Karayevia oblongella	Macro	Low profile	Unicellular life form	Weak attachment	N	1.5	4	2
+Lemnicola hungarica	Micro	Low profile	Unicellular life form	Weak attachment	N	4	6	4
+Leptocylindrus aporus	Micro	Low profile	Unicellular life form	Weak attachment	N	1	3	1
+Licmophora normaniana	Micro	Low profile	Unicellular life form	Weak attachment	N	2.378	5	1.808
+Lindavia praetermissa	Large	High profile	Unicellular life form	Unattached	N	2.459	6.367	2.334
+Luticola acidoclinata	Meso	High profile	Colonial life form	Strong attachment	N	1	5	2.773
+Luticola australomutica	Meso	High profile	Colonial life form	Strong attachment	N	4	5	2.217
+Luticola caubergsii	Meso	High profile	Colonial life form	Strong attachment	N	4	5	2.379
+Luticola cohnii	Meso	High profile	Colonial life form	Strong attachment	N	4	5	2.046
+Luticola goeppertiana	Meso	Low profile	Unicellular life form	Unattached	N	4	5	4
+Luticola grupcei	Meso	High profile	Colonial life form	Strong attachment	N	3.891	5	1.762
+Luticola hlubikovae	Meso	High profile	Colonial life form	Strong attachment	N	3.871	5	2.769
+Luticola kotscbyi	Meso	High profile	Colonial life form	Strong attachment	N	3.389	5	2.482
+Luticola mutica	Meso	High profile	Colonial life form	Strong attachment	N	4	5	2.208
+Luticola nivalis	Meso	High profile	Colonial life form	Strong attachment	N	1	5	2.633
+Luticola peguana	Meso	High profile	Colonial life form	Strong attachment	N	3.9	5	2.7
+Luticola permuticopsis	Meso	High profile	Colonial life form	Strong attachment	N	3.54	5	2.385
+Luticola pitranensis	Meso	High profile	Colonial life form	Strong attachment	N	3.839	5	2.314
+Luticola plausibilis	Meso	High profile	Colonial life form	Strong attachment	N	2.355	5	2.421
+Luticola scardica	Meso	High profile	Colonial life form	Strong attachment	N	3.882	5	1.968
+Luticola spp.	Meso	High profile	Colonial life form	Strong attachment	N	3.119	5	2.774
+Luticola subcrozetensis	Meso	High profile	Colonial life form	Strong attachment	N	3.813	5	2.189
+Luticola terminata	Meso	High profile	Colonial life form	Strong attachment	N	4	5	2.514
+Luticola ventriconfusa	Meso	High profile	Colonial life form	Strong attachment	N	4	5	2.46
+Luticola ventricosa	Meso	Motile	Unicellular life form	Unattached	N	4	5	1
+Mastogloia smithii var. amphicephala	Micro	Low profile	Unicellular life form	Weak attachment	N	1.479	2.495	1
+Mastogloia spp.	Micro	Low profile	Unicellular life form	Weak attachment	N	1.479	2.495	1
+Mayamaea agrestis	Meso	High profile	Unicellular life form	Weak attachment	N	3	5.301	2.76
+Mayamaea atomus	Meso	High profile	Unicellular life form	Weak attachment	N	3.358	6	2
+Mayamaea ingenua	Meso	High profile	Unicellular life form	Weak attachment	N	3.5	5.206	3.312
+Mayamaea permitis	Meso	High profile	Unicellular life form	Weak attachment	N	3.7	5	4
+Melosira capsularum	Large	Motile	Unicellular life form	Weak attachment	N	2.033	5	3
+Melosira italica	Large	Motile	Unicellular life form	Weak attachment	N	2.3	5	3
+Melosira italica var. tenuissima	Large	Motile	Unicellular life form	Weak attachment	N	2	5	3
+Melosira spp.	Large	Motile	Unicellular life form	Weak attachment	N	2.109	5	3
+Melosira varians	Large	Motile	Unicellular life form	Weak attachment	N	2	5	3
+Meridion circulare	Meso	Low profile	Unicellular life form	Strong attachment	N	1	7	2
+Meridion circulare var. constrictum	Macro	Low profile	Unicellular life form	Medium attachment	N	1	7	2
+Minutocellus polymorphus	Macro	Low profile	Unicellular life form	Weak attachment	N	1	3	1
+Navicula absoluta	Meso	Motile	Unicellular life form	Weak attachment	N	2	5.4	2.467
+Navicula aitchelbee	Meso	Motile	Unicellular life form	Unattached	N	2.586	5.36	2.594
+Navicula amphiceropsis	Meso	Motile	Unicellular life form	Weak attachment	N	3	5.434	2.504
+Navicula antonii	Meso	Motile	Unicellular life form	Weak attachment	N	2	5	2.667
+Navicula aquaedurae	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.473	2.531
+Navicula associata	Meso	Motile	Unicellular life form	Weak attachment	N	3	5.444	2.453
+Navicula bacilloides	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.344	2.622
+Navicula bacillum	Meso	Motile	Unicellular life form	Weak attachment	N	2	5.283	2.536
+Navicula bicapitellata	Meso	Motile	Unicellular life form	Weak attachment	N	3	5.455	2.695
+Navicula bourrellyivera	Meso	Motile	Unicellular life form	Weak attachment	N	2.062	5.372	2.537
+Navicula bryophila	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.407	2.544
+Navicula canalis	Meso	Motile	Unicellular life form	Weak attachment	N	2.514	5.224	2.85
+Navicula capitata	Meso	Motile	Unicellular life form	Weak attachment	N	2	5.342	2.53
+Navicula capitatoradiata	Meso	Motile	Unicellular life form	Weak attachment	N	3	5	3
+Navicula cari	Large	Motile	Unicellular life form	Unattached	N	2	7	2.577
+Navicula cari var. angusta	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.552	2.579
+Navicula caroliniae	Large	Motile	Unicellular life form	Unattached	N	2.324	5.61	2.667
+Navicula catalanogermanica	Meso	Motile	Unicellular life form	Weak attachment	N	1.2	5.398	2.494
+Navicula cataracta-rheni	Meso	Motile	Unicellular life form	Weak attachment	N	1.5	5.347	2.765
+Navicula caterva	Meso	Motile	Unicellular life form	Weak attachment	N	3	5.868	2.595
+Navicula chiarae	Meso	Motile	Unicellular life form	Weak attachment	N	2.308	5.694	2.597
+Navicula cincta	Meso	Motile	Unicellular life form	Unattached	N	3	5	3
+Navicula cocconeiformis	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.391	2.614
+Navicula concentrica	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.334	2.352
+Navicula cryptocephala	Meso	Motile	Unicellular life form	Unattached	N	2.5	7	3
+Navicula cryptocephala var. venta	Meso	Motile	Unicellular life form	Weak attachment	N	2.047	5.572	2.598
+Navicula cryptotenella	Meso	Motile	Unicellular life form	Weak attachment	N	2	7	2.663
+Navicula cryptotenelloides	Meso	Motile	Unicellular life form	Weak attachment	N	2.5	7	2.674
+Navicula cuspidata	Meso	Motile	Unicellular life form	Weak attachment	N	3.4	5.482	2.633
+Navicula cuspidata var. ambigus	Meso	Motile	Unicellular life form	Weak attachment	N	2.115	5.509	2.667
+Navicula cuspidata var. heribaudii	Meso	Motile	Unicellular life form	Weak attachment	N	3.4	5.419	2.522
+Navicula dicephala	Meso	Motile	Unicellular life form	Weak attachment	N	2	5.167	2.851
+Navicula digitoconvergens	Meso	Motile	Unicellular life form	Weak attachment	N	3	5.493	2.437
+Navicula diserta	Meso	Motile	Unicellular life form	Weak attachment	N	4	5.267	2.112
+Navicula erifuga	Meso	Motile	Unicellular life form	Weak attachment	N	4	5.63	2.69
+Navicula escambia	Meso	Motile	Unicellular life form	Weak attachment	N	3.2	5.36	2.61
+Navicula exigua	Meso	Motile	Unicellular life form	Weak attachment	N	2	5.926	2.574
+Navicula exilis	Meso	Motile	Unicellular life form	Weak attachment	N	3	5.251	2.872
+Navicula falaisiensia	Meso	Motile	Unicellular life form	Weak attachment	N	2.187	5.252	2.873
+Navicula germainii	Meso	Motile	Unicellular life form	Unattached	N	3	5.536	2.493
+Navicula gothlandica	Meso	Motile	Unicellular life form	Weak attachment	N	2.051	5.573	2.597
+Navicula gracilis	Meso	Motile	Unicellular life form	Weak attachment	N	1.6	5.509	2.568
+Navicula graciloides	Meso	Motile	Unicellular life form	Weak attachment	N	2	5.803	2.6
+Navicula gregaria	Meso	Motile	Unicellular life form	Unattached	N	2.6	5	4
+Navicula grimmei	Meso	Motile	Unicellular life form	Weak attachment	N	3	5.459	2.619
+Navicula halophilioides	Meso	Motile	Unicellular life form	Weak attachment	N	4	5.152	2.823
+Navicula hasta	Large	Motile	Unicellular life form	Unattached	N	2	5.677	2.644
+Navicula heimansioides	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.307	2.771
+Navicula krammerae	Meso	Motile	Unicellular life form	Weak attachment	N	2.303	5.535	2.599
+Navicula krasskei	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.439	2.641
+Navicula lanceolata	Meso	Motile	Unicellular life form	Weak attachment	N	2.2	5	3
+Navicula leistikowii	Meso	Motile	Unicellular life form	Weak attachment	N	2	5.45	2.599
+Navicula longicephala	Nano	Motile	Unicellular life form	Unattached	N	4	5.348	2.542
+Navicula lundii	Meso	Motile	Unicellular life form	Unattached	N	1.2	5.56	2.831
+Navicula menisculus	Meso	Motile	Unicellular life form	Weak attachment	N	2.431	5.456	2.355
+Navicula minima	Meso	Motile	Unicellular life form	Weak attachment	N	3.8	5.342	2.549
+Navicula moskalii	Meso	Motile	Unicellular life form	Weak attachment	N	3	5.865	2.581
+Navicula muralis	Meso	Motile	Unicellular life form	Weak attachment	N	4	5.458	2.613
+Navicula nitrophila	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.407	2.544
+Navicula nolens	Meso	Motile	Unicellular life form	Weak attachment	N	1.93	5.393	2.588
+Navicula notha	Micro	Motile	Unicellular life form	Unattached	N	1	5.438	2.42
+Navicula novaesiberica	Micro	Motile	Unicellular life form	Weak attachment	N	3.2	5.378	2.596
+Navicula oblonga	Large	Motile	Unicellular life form	Unattached	N	1.5	5	2
+Navicula oligotraphenta	Micro	Motile	Unicellular life form	Weak attachment	N	2	5.36	2.663
+Navicula parabilis	Micro	Motile	Unicellular life form	Weak attachment	N	2.452	5.318	2.395
+Navicula perminuta	Micro	Motile	Unicellular life form	Weak attachment	N	4	5.348	2.542
+Navicula perrostrata	Meso	Motile	Unicellular life form	Weak attachment	N	2.476	5.412	2.622
+Navicula phyllepta	Meso	Motile	Unicellular life form	Weak attachment	N	3.4	5.181	2.395
+Navicula phylleptosoma	Meso	Motile	Unicellular life form	Weak attachment	N	2.114	5.582	2.575
+Navicula placenta	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.579	2.596
+Navicula placentula	Meso	Motile	Unicellular life form	Weak attachment	N	2	5.594	2.57
+Navicula praeterita	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.443	2.66
+Navicula protracta	Meso	Motile	Unicellular life form	Weak attachment	N	4	5.472	2.591
+Navicula pseudoarvensis	Meso	Motile	Unicellular life form	Weak attachment	N	2.465	5.398	2.374
+Navicula pseudolanceolata	Large	Motile	Unicellular life form	Unattached	N	1	5.377	2.588
+Navicula pseudotenelloides	Meso	Motile	Unicellular life form	Unattached	N	2.455	5.365	2.508
+Navicula pupula	Meso	Motile	Unicellular life form	Weak attachment	N	3.4	5.914	2.583
+Navicula pupula var. rectungularis	Meso	Motile	Unicellular life form	Weak attachment	N	2.333	5.609	2.579
+Navicula pygmaea	Meso	Motile	Unicellular life form	Weak attachment	N	4	5.285	2.485
+Navicula radiosa	Macro	Motile	Unicellular life form	Unattached	N	1	4	2
+Navicula radiosafallax	Macro	Motile	Unicellular life form	Weak attachment	N	1	5.442	2.586
+Navicula recens	Macro	Motile	Unicellular life form	Weak attachment	N	3.2	5.459	2.648
+Navicula reichardtiana	Macro	Motile	Unicellular life form	Weak attachment	N	2.471	5.356	2.611
+Navicula reinhardtii	Macro	Motile	Unicellular life form	Unattached	N	1	5	2
+Navicula rhynchocephala	Large	Motile	Unicellular life form	Unattached	N	2	5.49	2.666
+Navicula riediana	Meso	Motile	Unicellular life form	Weak attachment	N	2.382	5.311	2.631
+Navicula rostellata	Large	Motile	Unicellular life form	Unattached	N	3	5	2
+Navicula rotaeana	Meso	Motile	Unicellular life form	Weak attachment	N	2.388	5.724	2.59
+Navicula salinarum	Meso	Motile	Unicellular life form	Weak attachment	N	2.509	5.345	2.671
+Navicula salinicola	Meso	Motile	Unicellular life form	Weak attachment	N	4	5.345	2.604
+Navicula schadei	Meso	Motile	Unicellular life form	Weak attachment	N	1.9	5.434	2.4
+Navicula schonfeldii	Meso	Motile	Unicellular life form	Weak attachment	N	2.303	5.443	2.576
+Navicula schroeteri	Meso	Motile	Unicellular life form	Weak attachment	N	2.392	5.485	2.504
+Navicula schroeteri var. symmetrica	Meso	Motile	Unicellular life form	Weak attachment	N	3	5.465	2.461
+Navicula seibigiana	Meso	Motile	Unicellular life form	Unattached	N	3	5.374	2.601
+Navicula simplex	Meso	Motile	Unicellular life form	Weak attachment	N	4	5.104	2.383
+Navicula simulata	Meso	Motile	Unicellular life form	Weak attachment	N	3	5.263	2.361
+Navicula slesvicensis	Large	Motile	Unicellular life form	Unattached	N	3	5	2
+Navicula spp.	Meso	Motile	Unicellular life form	Weak attachment	N	2.519	5.457	2.541
+Navicula stankovicii	Meso	Motile	Unicellular life form	Weak attachment	N	2.423	5.344	2.548
+Navicula streckerae	Large	Motile	Unicellular life form	Unattached	N	2.31	5.736	2.577
+Navicula subalpina	Meso	Motile	Unicellular life form	Weak attachment	N	1.5	5.628	2.618
+Navicula subminuscula	Meso	Motile	Unicellular life form	Weak attachment	N	4	5.374	2.591
+Navicula submuralis	Meso	Motile	Unicellular life form	Weak attachment	N	3.1	5.365	2.599
+Navicula subrhynchocephala	Meso	Motile	Unicellular life form	Unattached	N	3	5.393	2.598
+Navicula subrostrata	Meso	Motile	Unicellular life form	Weak attachment	N	2.363	5.481	2.578
+Navicula subtilissima	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.378	2.586
+Navicula supleeorum	Meso	Motile	Unicellular life form	Unattached	N	2.402	5.411	2.429
+Navicula suprinii	Meso	Motile	Unicellular life form	Weak attachment	N	2	5.323	2.505
+Navicula symmetrica	Meso	Motile	Unicellular life form	Weak attachment	N	3	5	1
+Navicula tenelloides	Meso	Motile	Unicellular life form	Weak attachment	N	3	5.658	2.535
+Navicula tridentula	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.522	2.496
+Navicula tripunctata	Meso	Motile	Unicellular life form	Weak attachment	N	1.6	5	2
+Navicula trivialis	Meso	Motile	Unicellular life form	Weak attachment	N	2.525	5	3
+Navicula tuscula	Meso	Motile	Unicellular life form	Weak attachment	N	1.5	5.174	2.311
+Navicula tuulensis	Meso	Motile	Unicellular life form	Weak attachment	N	2.372	5.68	2.589
+Navicula upsaliensis	Meso	Motile	Unicellular life form	Weak attachment	N	2	5.37	2.803
+Navicula vandamii	Meso	Motile	Unicellular life form	Weak attachment	N	2.219	5.449	2.378
+Navicula veneta	Meso	Motile	Unicellular life form	Unattached	N	5	5	4
+Navicula verecunda	Meso	Motile	Unicellular life form	Weak attachment	N	2.327	5.206	2.365
+Navicula vilaplanii	Nano	Motile	Unicellular life form	Unattached	N	3.1	5.371	2.577
+Navicula viridula	Large	Motile	Unicellular life form	Unattached	N	3	5.308	2.506
+Navicula viridula var. rostellata	Meso	Motile	Unicellular life form	Weak attachment	N	3	5.502	2.654
+Navicula viridulacalcis	Meso	Motile	Unicellular life form	Weak attachment	N	2.377	5.399	2.594
+Navicula virihensis	Meso	Motile	Unicellular life form	Weak attachment	N	2.445	5.346	2.607
+Navicula vitabunda	Meso	Motile	Unicellular life form	Weak attachment	N	1	5.44	2.543
+Navicula wiesneri	Meso	Motile	Unicellular life form	Weak attachment	N	3	5.372	2.594
+Navicula wildii	Large	Motile	Unicellular life form	Unattached	N	2.574	5.345	2.516
+Naviculadicta cosmopolitana	Meso	Motile	Unicellular life form	Weak attachment	N	4	4	2
+Neidiomorpha binodiformis	Meso	Motile	Unicellular life form	Unattached	N	2	3	1
+Neidiomorpha binodis	Meso	Low profile	Unicellular life form	Weak attachment	N	2	3	2
+Neidium aequum	Large	High profile	Colonial life form	Strong attachment	N	1.667	4	1
+Neidium affine	Large	High profile	Colonial life form	Strong attachment	N	2	4	1
+Neidium affine var. humeris	Large	High profile	Colonial life form	Strong attachment	N	1.709	4	1
+Neidium ampliatum	Large	High profile	Colonial life form	Strong attachment	N	1	4	1
+Neidium apiculatum	Large	High profile	Colonial life form	Strong attachment	N	1	4	1
+Neidium cuneatiforme	Large	High profile	Colonial life form	Strong attachment	N	1.399	4	1
+Neidium curtihamatum	Large	High profile	Colonial life form	Strong attachment	N	1.656	4	1
+Neidium dubium	Large	High profile	Colonial life form	Strong attachment	N	2	4	1
+Neidium hitchcockii	Large	Motile	Unicellular life form	Unattached	N	1.579	4	1
+Neidium iridis	Large	Motile	Unicellular life form	Unattached	N	1	4	1
+Neidium kozolowi	Large	High profile	Colonial life form	Strong attachment	N	1.213	4	1
+Neidium spp.	Large	High profile	Colonial life form	Strong attachment	N	1.296	4	1
+Neocalyptrella robusta	Large	High profile	Colonial life form	Strong attachment	N	2.537	5	3.074
+Nitzschia acicularis	Micro	Motile	Unicellular life form	Unattached	N	4	4.336	2.151
+Nitzschia acidoclinata	Micro	Motile	Unicellular life form	Unattached	N	1	3	1
+Nitzschia actinastroides	Micro	Motile	Unicellular life form	Weak attachment	N	4	4.276	2.68
+Nitzschia acula	Large	Motile	Unicellular life form	Weak attachment	N	2	4.69	2.668
+Nitzschia agnita	Micro	Motile	Unicellular life form	Weak attachment	N	2.8	4.246	2.139
+Nitzschia alpina	Meso	Motile	Unicellular life form	Unattached	N	1	4.829	2.318
+Nitzschia amphibia	Meso	Motile	Unicellular life form	Weak attachment	N	3.178	5	3
+Nitzschia amphibia f. frauenfeldii	Meso	Motile	Unicellular life form	Weak attachment	N	2.9	4.199	2.386
+Nitzschia amplectens	Meso	Motile	Unicellular life form	Weak attachment	N	4	4.64	2.493
+Nitzschia angustata	Large	Motile	Unicellular life form	Unattached	N	2.2	4.199	2.373
+Nitzschia angustatula	Meso	Motile	Unicellular life form	Weak attachment	N	2	4.61	2.453
+Nitzschia apiculata	Meso	Motile	Unicellular life form	Weak attachment	N	3.6	5	3
+Nitzschia archibaldii	Meso	Motile	Unicellular life form	Weak attachment	N	2.2	4.955	2.568
+Nitzschia bacilliformis	Meso	Motile	Unicellular life form	Weak attachment	N	1	4.412	2.325
+Nitzschia bacillum	Meso	Motile	Unicellular life form	Weak attachment	N	2.2	4.864	2.565
+Nitzschia bergii	Meso	Motile	Unicellular life form	Weak attachment	N	4	4.883	2.403
+Nitzschia biundulata	Meso	Motile	Unicellular life form	Weak attachment	N	3.03	4.822	2.453
+Nitzschia brevissima	Meso	Motile	Unicellular life form	Weak attachment	N	4	4.445	2.422
+Nitzschia capitellata	Meso	Motile	Unicellular life form	Weak attachment	N	5	6	2.753
+Nitzschia clausii	Meso	Motile	Unicellular life form	Unattached	N	3.2	4.42	2.495
+Nitzschia coarctata	Meso	Motile	Unicellular life form	Weak attachment	N	4	4.017	2.199
+Nitzschia communis	Meso	Motile	Unicellular life form	Weak attachment	N	5	5	3
+Nitzschia communis var. abbreviata	Micro	Motile	Unicellular life form	Weak attachment	N	3.219	4.915	2.581
+Nitzschia commutata	Micro	Motile	Unicellular life form	Weak attachment	N	4	4.862	2.441
+Nitzschia costei	Micro	Motile	Unicellular life form	Weak attachment	N	2	4.137	2.392
+Nitzschia dealpina	Micro	Motile	Unicellular life form	Weak attachment	N	3.098	5.023	2.409
+Nitzschia delognei	Micro	Motile	Unicellular life form	Weak attachment	N	3	4.093	1.681
+Nitzschia denticula	Micro	Motile	Unicellular life form	Weak attachment	N	2	3	1
+Nitzschia dingrica	Micro	Motile	Unicellular life form	Weak attachment	N	3.013	3.993	2.307
+Nitzschia dissipata	Micro	Motile	Unicellular life form	Weak attachment	N	2.854	4	2
+Nitzschia dissipata var. media	Micro	Motile	Unicellular life form	Weak attachment	N	2	4.187	2.531
+Nitzschia diversa	Micro	Motile	Unicellular life form	Weak attachment	N	4.2	4.143	1.955
+Nitzschia draveillensis	Micro	Motile	Unicellular life form	Weak attachment	N	3	5	2.216
+Nitzschia dubia	Micro	Motile	Unicellular life form	Weak attachment	N	4	4.91	2.542
+Nitzschia eglei	Micro	Motile	Unicellular life form	Weak attachment	N	3.114	4.965	2.533
+Nitzschia elegantula	Micro	Motile	Unicellular life form	Weak attachment	N	4	4.362	2.331
+Nitzschia exilis	Micro	Motile	Unicellular life form	Weak attachment	N	2.781	4.023	2.452
+Nitzschia filiformis	Micro	Motile	Unicellular life form	Unattached	N	3.148	5	3
+Nitzschia filiformis var. scotica	Micro	Motile	Unicellular life form	Weak attachment	N	3.164	4.709	2.373
+Nitzschia filiformis var. conferta	Micro	Motile	Unicellular life form	Weak attachment	N	2.8	4.148	2.111
+Nitzschia flexa	Micro	Motile	Unicellular life form	Weak attachment	N	3	4.824	2.399
+Nitzschia fonticola	Macro	Motile	Unicellular life form	Weak attachment	N	2.5	4	2
+Nitzschia fonticola var. pelagica	Macro	Motile	Unicellular life form	Weak attachment	N	2	4.782	2.545
+Nitzschia fonticoloides	Macro	Motile	Unicellular life form	Unattached	N	3.026	4.249	2.529
+Nitzschia fossilis	Macro	Motile	Unicellular life form	Weak attachment	N	3	4.739	2.493
+Nitzschia frustulum	Macro	Motile	Unicellular life form	Weak attachment	N	3.13	5	3
+Nitzschia frustulum var. inconspicua	Macro	Motile	Unicellular life form	Weak attachment	N	4.5	4.759	2.507
+Nitzschia frustulum var. perpusilla	Macro	Motile	Unicellular life form	Weak attachment	N	1	4.501	2.277
+Nitzschia fruticosa	Macro	Motile	Unicellular life form	Weak attachment	N	4	4.402	2.137
+Nitzschia fundi	Macro	Motile	Unicellular life form	Weak attachment	N	3.053	4.121	2.301
+Nitzschia gottlandica	Macro	Motile	Unicellular life form	Weak attachment	N	3.154	4.034	2.298
+Nitzschia gracilis	Macro	Motile	Unicellular life form	Weak attachment	N	3	3	2
+Nitzschia hantzschiana	Macro	Motile	Unicellular life form	Weak attachment	N	1	4.276	2.22
+Nitzschia heidenii	Macro	Motile	Unicellular life form	Weak attachment	N	3	4.267	2.381
+Nitzschia heufleriana	Micro	Motile	Unicellular life form	Weak attachment	N	2	4.769	2.458
+Nitzschia homburgiensis	Micro	Motile	Unicellular life form	Weak attachment	N	1	4.602	2.015
+Nitzschia hungarica	Micro	Motile	Unicellular life form	Weak attachment	N	3.8	4.98	2.556
+Nitzschia incognita	Micro	Motile	Unicellular life form	Unattached	N	3.5	4.798	2.403
+Nitzschia inconspicua	Nano	Motile	Unicellular life form	Unattached	N	3.2	5	3
+Nitzschia intermedia	Micro	Motile	Unicellular life form	Weak attachment	N	5	4.637	2.51
+Nitzschia kuetzingiana	Micro	Motile	Unicellular life form	Weak attachment	N	4	4.313	2.409
+Nitzschia lacuum	Micro	Motile	Unicellular life form	Weak attachment	N	1	4.384	2.367
+Nitzschia liebethruthii	Micro	Motile	Unicellular life form	Unattached	N	3.079	4.866	2.413
+Nitzschia linearis	Macro	Motile	Unicellular life form	Weak attachment	N	3.738	4	2
+Nitzschia longissima	Micro	Motile	Unicellular life form	Weak attachment	N	4.2	4.732	2.459
+Nitzschia lorenziana	Micro	Motile	Unicellular life form	Weak attachment	N	3.5	4.338	2.361
+Nitzschia lorenziana var. subtilis	Micro	Motile	Unicellular life form	Weak attachment	N	3.5	4.518	2.308
+Nitzschia microcephala	Nano	Motile	Unicellular life form	Weak attachment	N	5	5	3
+Nitzschia minuta	Micro	Motile	Unicellular life form	Weak attachment	N	5	4.721	2.376
+Nitzschia monachorum	Micro	Motile	Unicellular life form	Weak attachment	N	2	5	2.537
+Nitzschia obtusa	Micro	Motile	Unicellular life form	Weak attachment	N	3.517	4.541	2.389
+Nitzschia obtusa var. kurzii	Micro	Motile	Unicellular life form	Weak attachment	N	3.5	4.427	2.454
+Nitzschia obtusa var. scalpelliformis	Micro	Motile	Unicellular life form	Weak attachment	N	3	4.846	2.54
+Nitzschia oligotraphenta	Micro	Motile	Unicellular life form	Unattached	N	3.05	4.195	2.387
+Nitzschia palea	Micro	Motile	Unicellular life form	Weak attachment	N	3.064	6	4
+Nitzschia palea var. debilis	Micro	Motile	Unicellular life form	Weak attachment	N	3	5.292	2.681
+Nitzschia palea var. tenuirostris	Micro	Motile	Unicellular life form	Weak attachment	N	5	5.105	2.555
+Nitzschia paleacea	Micro	Motile	Unicellular life form	Unattached	N	3.5	5	3
+Nitzschia perminuta	Micro	Motile	Unicellular life form	Weak attachment	N	1.5	2	1
+Nitzschia prolongata	Micro	Motile	Unicellular life form	Weak attachment	N	3.186	4.936	2.606
+Nitzschia pusilla	Micro	Motile	Unicellular life form	Weak attachment	N	3.245	7	2
+Nitzschia radicula	Large	Motile	Unicellular life form	Weak attachment	N	4	4.637	2.259
+Nitzschia recta	Micro	Motile	Unicellular life form	Weak attachment	N	3	7	2
+Nitzschia regula var. robusta	Macro	Motile	Unicellular life form	Unattached	N	3.191	4.372	2.305
+Nitzschia reversa	Micro	Motile	Unicellular life form	Unattached	N	4.2	4.355	2.378
+Nitzschia romana	Micro	Motile	Unicellular life form	Weak attachment	N	2.5	4.42	2.469
+Nitzschia sigma	Micro	Motile	Unicellular life form	Unattached	N	4	5	3
+Nitzschia sigmoidea	Large	Motile	Unicellular life form	Unattached	N	3	5	3
+Nitzschia siliqua	Nano	Low profile	Unicellular life form	Unattached	N	4	4.932	2.559
+Nitzschia sinuata var. tabellaria	Micro	Motile	Unicellular life form	Weak attachment	N	1	4.922	2.544
+Nitzschia sociabilis	Micro	Motile	Unicellular life form	Weak attachment	N	3	5.054	2.561
+Nitzschia solita	Micro	Motile	Unicellular life form	Weak attachment	N	4	3.916	2.191
+Nitzschia soratensis	Nano	Motile	Unicellular life form	Unattached	N	5	4.78	2.396
+Nitzschia spp.	Micro	Motile	Unicellular life form	Weak attachment	N	3.159	4.074	2.346
+Nitzschia subacicularis	Micro	Motile	Unicellular life form	Weak attachment	N	3	4.431	2.354
+Nitzschia subcapitellata	Micro	Motile	Unicellular life form	Weak attachment	N	5	4.939	2.621
+Nitzschia subcohaerens var. scotica	Micro	Motile	Unicellular life form	Weak attachment	N	4	4.282	2.29
+Nitzschia sublinearis	Micro	Motile	Unicellular life form	Weak attachment	N	1	4.374	2.449
+Nitzschia subtilis	Micro	Motile	Unicellular life form	Weak attachment	N	3	4.407	2.342
+Nitzschia superalitorea	Micro	Motile	Unicellular life form	Weak attachment	N	2.913	4.58	2.307
+Nitzschia terrestris	Micro	Motile	Unicellular life form	Weak attachment	N	3	4.375	2.412
+Nitzschia tubicola	Micro	Motile	Unicellular life form	Weak attachment	N	3.2	6	4
+Nitzschia umbonata	Micro	Motile	Unicellular life form	Weak attachment	N	5	4.529	2.352
+Nitzschia valdestriata	Micro	Motile	Unicellular life form	Weak attachment	N	4	4.818	1
+Nitzschia vitrea	Micro	Motile	Unicellular life form	Weak attachment	N	2	5	2.537
+Nupela wellneri	Large	Motile	Unicellular life form	Weak attachment	N	2	3	1
+Odontidium mesodon	Large	Motile	Unicellular life form	Weak attachment	N	1.46	4	1
+Pantocsekiella ocellata	Meso	Low profile	Unicellular life form	Weak attachment	N	2.355	4	1
+Parlibellus protractus	Large	High profile	Unicellular life form	Weak attachment	N	2.204	5	2.974
+Pinnularia acrosphaeria	Macro	Motile	Unicellular life form	Unattached	N	1.92	4.977	2.168
+Pinnularia amabilis	Macro	Motile	Unicellular life form	Medium attachment	N	1.596	5.175	2.909
+Pinnularia borealis	Macro	Motile	Unicellular life form	Unattached	N	1.77	5.114	2.788
+Pinnularia borealis var. islandica	Macro	Motile	Unicellular life form	Medium attachment	N	1	4.777	2.393
+Pinnularia borealis var. rectangularis	Macro	Motile	Unicellular life form	Medium attachment	N	1.594	4.856	2.961
+Pinnularia brebissonii	Macro	Motile	Unicellular life form	Unattached	N	1.789	4.988	2.587
+Pinnularia cruxarea	Macro	Motile	Unicellular life form	Medium attachment	N	1.849	4.932	1.501
+Pinnularia divergens	Macro	Motile	Unicellular life form	Medium attachment	N	1	4.127	2.839
+Pinnularia divergens var. sublinearis	Macro	Motile	Unicellular life form	Medium attachment	N	1	4.776	2.728
+Pinnularia gibba	Macro	Motile	Unicellular life form	Medium attachment	N	1	7	3
+Pinnularia grunowii	Macro	Motile	Unicellular life form	Medium attachment	N	1.456	5.404	2.875
+Pinnularia irrorata	Macro	Motile	Unicellular life form	Medium attachment	N	1	4.851	1.739
+Pinnularia krammeri	Macro	Motile	Unicellular life form	Medium attachment	N	1.74	4.862	2.779
+Pinnularia legumen	Macro	Motile	Unicellular life form	Medium attachment	N	2	4.933	1.934
+Pinnularia lundii	Macro	Motile	Unicellular life form	Medium attachment	N	1.854	4.997	2.261
+Pinnularia marchica	Macro	Motile	Unicellular life form	Unattached	N	1.881	4.828	2.098
+Pinnularia mesolepta	Macro	Motile	Unicellular life form	Medium attachment	N	1.917	4	3
+Pinnularia microstauron	Macro	Motile	Unicellular life form	Unattached	N	1.86	4.965	2.686
+Pinnularia microstaurom f. diminuta	Large	Motile	Unicellular life form	Medium attachment	N	1.834	4.771	2.694
+Pinnularia molaris	Large	Motile	Unicellular life form	Medium attachment	N	2	5.076	2.521
+Pinnularia obscura	Large	Motile	Unicellular life form	Medium attachment	N	3	5.002	1
+Pinnularia parvulissima	Large	Motile	Unicellular life form	Unattached	N	3	4.779	2.749
+Pinnularia perspicua	Large	Motile	Unicellular life form	Medium attachment	N	1.682	4.881	1.974
+Pinnularia saprophila	Large	Motile	Unicellular life form	Unattached	N	3	4.854	2.755
+Pinnularia schoenfelderi	Large	Motile	Unicellular life form	Medium attachment	N	1.5	4.977	2.027
+Pinnularia sinistra	Large	Motile	Unicellular life form	Medium attachment	N	3	5.005	1.148
+Pinnularia spp.	Large	Motile	Unicellular life form	Medium attachment	N	1.791	5.121	2.795
+Pinnularia subanglica	Large	Motile	Unicellular life form	Weak attachment	N	1.922	4.838	1.504
+Pinnularia subcapitata	Large	Motile	Unicellular life form	Medium attachment	N	1.399	1	3
+Pinnularia subcapitata var. paucistriata	Large	Motile	Unicellular life form	Medium attachment	N	1	4.779	2.749
+Pinnularia subcapitata var. subcapitata	Large	Motile	Unicellular life form	Medium attachment	N	1	4.982	2.094
+Pinnularia viridis	Large	Motile	Unicellular life form	Medium attachment	N	1.887	7	3
+Placoneis anglica	Large	High profile	Unicellular life form	Weak attachment	N	2.5	5	2
+Placoneis anglophila	Nano	Motile	Unicellular life form	Unattached	N	3	5	2
+Placoneis clementioides	Large	High profile	Unicellular life form	Weak attachment	N	1.8	5	2
+Placoneis clementis	Large	High profile	Unicellular life form	Weak attachment	N	2	5	2
+Placoneis dicephala	Large	High profile	Unicellular life form	Weak attachment	N	2	5	2
+Placoneis elginensis	Large	High profile	Unicellular life form	Weak attachment	N	2	5	2
+Placoneis ellipticorostrata	Macro	High profile	Unicellular life form	Weak attachment	N	2.019	5	2
+Placoneis gastrum	Macro	Motile	Unicellular life form	Unattached	N	1	5	2
+Placoneis nipponica	Large	High profile	Unicellular life form	Weak attachment	N	2.129	5	2
+Placoneis placentula	Large	High profile	Unicellular life form	Weak attachment	N	2	5	2
+Placoneis pseudanglica	Large	High profile	Unicellular life form	Weak attachment	N	3	5	2
+Placoneis spp.	Large	High profile	Unicellular life form	Weak attachment	N	2.127	5	2
+Placoneis undulata	Large	High profile	Unicellular life form	Weak attachment	N	2	5	2
+Plagiolemma spp.	Micro	Low profile	Unicellular life form	Weak attachment	N	1.733	3.04	1.505
+Planothidium apiculatum	Micro	Low profile	Colonial life form	Strong attachment	N	2	5.545	3
+Planothidium biporomum	Micro	Motile	Unicellular life form	Weak attachment	N	1.4	5.39	3
+Planothidium cryptolanceolatum	Meso	Low profile	Colonial life form	Strong attachment	N	1.925	5.486	3
+Planothidium delicatulum	Meso	Low profile	Colonial life form	Strong attachment	N	3	5.548	3
+Planothidium daui	Micro	Low profile	Colonial life form	Strong attachment	N	1.2	5.548	3
+Planothidium dubium	Micro	Low profile	Colonial life form	Strong attachment	N	2	6.034	3
+Planothidium ellipticum	Meso	Low profile	Colonial life form	Strong attachment	N	3.2	5.403	3
+Planothidium frequentissimum	Micro	Low profile	Colonial life form	Strong attachment	N	2.6	7	3
+Planothidium haynaldii	Micro	Low profile	Colonial life form	Strong attachment	N	3	5.548	3
+Planothidium incuriatum	Micro	Motile	Unicellular life form	Weak attachment	N	2.112	5.967	3
+Planothidium joursacense	Micro	Motile	Unicellular life form	Unattached	N	3	5.603	3
+Planothidium lanceolatum	Nano	Low profile	Colonial life form	Strong attachment	N	1.4	5	3
+Planothidium miotum	Nano	Low profile	Colonial life form	Strong attachment	N	2	5.552	3
+Planothidium rostratoholarcticum	Nano	Motile	Unicellular life form	Unattached	N	2.078	5.561	3
+Planothidium rostratum	Nano	Low profile	Colonial life form	Strong attachment	N	1.6	5.477	3
+Planothidium victorii	Nano	Low profile	Colonial life form	Strong attachment	N	2.205	5.517	3
+Planothidium spp.	Nano	Low profile	Colonial life form	Strong attachment	N	2.082	5.552	3
+Platessa hustedtii	Micro	Motile	Unicellular life form	Unattached	N	1.2	4	1
+Platessa montana	Nano	Low profile	Colonial life form	Strong attachment	N	1	4	2
+Pleurosigma elongatum	Micro	Low profile	Unicellular life form	Weak attachment	N	4	4	1
+Pleurosigma spp.	Micro	Low profile	Unicellular life form	Weak attachment	N	4	3	1
+Pleurosira indica	Micro	Low profile	Unicellular life form	Weak attachment	N	4	3	2
+Pleurosira laevis	Large	Low profile	Unicellular life form	Weak attachment	N	4	4	1
+Prestauroneis integra	Macro	Motile	Unicellular life form	Unattached	N	3	5	3
+Prestauroneis lowei	Micro	Low profile	Unicellular life form	Weak attachment	N	3	5	3
+Prestauroneis nenwai	Micro	Low profile	Unicellular life form	Weak attachment	N	3	5	3
+Psammothidium bioretii	Nano	Low profile	Unicellular life form	Weak attachment	N	1	3	1
+Psammothidium helveticum	Nano	Low profile	Unicellular life form	Weak attachment	N	1	3	2
+Psammothidium levanderi	Nano	Low profile	Unicellular life form	Weak attachment	N	2	3	1.506
+Pseudofallacia monoculata	Nano	Motile	Unicellular life form	Unattached	N	2.715	5	3
+Pseudofallacia tenera	Nano	High profile	Unicellular life form	Weak attachment	N	2.715	5	3
+Pseudonitzschia pseudodelicatissima	Nano	High profile	Unicellular life form	Weak attachment	N	4.389	7	2
+Pseudostaurosira brevistriata	Nano	High profile	Unicellular life form	Strong attachment	N	3	7	1
+Pseudostaurosira elliptica	Nano	High profile	Unicellular life form	Strong attachment	N	3	7	1
+Pseudostaurosira spp.	Nano	High profile	Unicellular life form	Weak attachment	N	3	7	1
+Pseudostaurosira trainorii	Nano	High profile	Unicellular life form	Weak attachment	N	3	7	1
+Pseudostaurosiropsis geocollegarum	Nano	High profile	Unicellular life form	Weak attachment	N	3	4	1
+Pseudostaurosiropsis spp.	Nano	High profile	Unicellular life form	Weak attachment	N	3	4	1
+Punctastriata mimetica	Nano	Low profile	Colonial life form	Unattached	N	2.3	4	1
+Puncticulata praetermissa	Micro	Low profile	Unicellular life form	Weak attachment	N	2.3	4	1
+Reimeria sinuata	Micro	Low profile	Unicellular life form	Strong attachment	N	1.2	3	1
+Reimeria uniseriata	Micro	Low profile	Unicellular life form	Strong attachment	N	1.5	3	1
+Rhabdonema adriaticum	Meso	Low profile	Unicellular life form	Strong attachment	N	1.354	6.526	2.045
+Rhoicosphenia abbreviata	Meso	Low profile	Unicellular life form	Strong attachment	N	2	5	2
+Rhoicosphenia californica	Meso	Motile	Unicellular life form	Strong attachment	N	2	5	2
+Rhoicosphenia curvata	Meso	Low profile	Unicellular life form	Strong attachment	N	2	5	2
+Rhoicosphenia spp.	Meso	Low profile	Unicellular life form	Strong attachment	N	2	5	2
+Rhopalodia gibba	Macro	Low profile	Unicellular life form	Strong attachment	Y	1	4	3
+Rhopalodia gibba var. ventricosa	Macro	Low profile	Unicellular life form	Strong attachment	Y	1	3	1
+Rhopalodia musculus var. ventricosa	Macro	Low profile	Unicellular life form	Strong attachment	Y	1	4	2
+Sellaphora absoluta	Large	Motile	Unicellular life form	Weak attachment	N	1.603	4.218	2.861
+Sellaphora atomoides	Nano	Motile	Unicellular life form	Unattached	N	1.76	4.128	2.919
+Sellaphora bacillum	Macro	Motile	Unicellular life form	Weak attachment	N	2	4	2
+Sellaphora blackfordensis	Macro	Motile	Unicellular life form	Weak attachment	N	1.444	4.084	2.496
+Sellaphora capitata	Macro	Motile	Unicellular life form	Weak attachment	N	2.154	4.451	3.637
+Sellaphora constrictum	Macro	Motile	Unicellular life form	Weak attachment	N	1.528	4.103	2.731
+Sellaphora crassulexigua	Macro	Motile	Unicellular life form	Weak attachment	N	1.591	4.096	2.757
+Sellaphora japonica	Nano	Motile	Unicellular life form	Unattached	N	1.778	4.119	2.73
+Sellaphora laevissima	Large	Motile	Unicellular life form	Unattached	N	1	3	1
+Sellaphora lanceolata	Macro	Motile	Unicellular life form	Weak attachment	N	1.951	4.385	3.448
+Sellaphora mongolocollegarum	Macro	Motile	Unicellular life form	Weak attachment	N	1.69	4.105	2.656
+Sellaphora nigri	Nano	Motile	Unicellular life form	Weak attachment	N	2.268	5	4
+Sellaphora perobesa	Macro	Motile	Unicellular life form	Weak attachment	N	1.65	4.252	2.629
+Sellaphora pseudoventralis	Macro	Motile	Unicellular life form	Weak attachment	N	1.693	4.103	2.633
+Sellaphora pupula	Macro	Motile	Unicellular life form	Weak attachment	N	3.4	4	3
+Sellaphora saprotolerans	Macro	Motile	Unicellular life form	Weak attachment	N	2.57	4.359	3.17
+Sellaphora saugerresii	Nano	Motile	Unicellular life form	Weak attachment	N	1.988	5	4
+Sellaphora schadei	Nano	Motile	Unicellular life form	Unattached	N	2.074	3.991	2.682
+Sellaphora schrothiana	Macro	Motile	Unicellular life form	Weak attachment	N	1.662	4.308	2.636
+Sellaphora seminulum	Macro	Motile	Unicellular life form	Weak attachment	N	4.5	5	4
+Sellaphora spp.	Macro	Motile	Unicellular life form	Weak attachment	N	2.155	4.37	3.563
+Sellaphora stroemii	Nano	Motile	Unicellular life form	Unattached	N	1	4.096	2.784
+Sellaphora ventraloconfusa	Macro	Motile	Unicellular life form	Weak attachment	N	1	4.288	2.658
+Sellaphora verecundiae	Macro	Motile	Unicellular life form	Weak attachment	N	1	4.106	2.544
+Sellaphora vitabunda	Macro	Motile	Unicellular life form	Weak attachment	N	1	4.379	3.103
+Seminavis strigosa	Micro	Low profile	Unicellular life form	Weak attachment	N	2.7	4	1
+Seminavis spp.	Micro	Low profile	Unicellular life form	Weak attachment	N	2.7	3	1
+Simonsenia delognei	Nano	Motile	Unicellular life form	Weak attachment	N	3	3	1
+Skeletonema menzelii	Large	Low profile	Unicellular life form	Weak attachment	N	3.907	6	2
+Skeletonema potamos	Large	Low profile	Unicellular life form	Weak attachment	N	3	6	2
+Skeletonema pseudocostatum	Large	Low profile	Unicellular life form	Weak attachment	N	3.8	6	2
+Skeletonema spp.	Large	Low profile	Unicellular life form	Weak attachment	N	4.032	6	2
+Skeletonema subsalsum	Large	Low profile	Unicellular life form	Weak attachment	N	4.2	6	2
+Spicaticribra kingstonii	Micro	Low profile	Unicellular life form	Weak attachment	N	1	4	3
+Stauroneis agrestis var. inflata	Large	Motile	Unicellular life form	Medium attachment	N	1.12	4	2.688
+Stauroneis amphicephala	Large	Motile	Unicellular life form	Unattached	N	1.07	4	2.46
+Stauroneis anceps	Large	Motile	Unicellular life form	Unattached	N	1	4	2.477
+Stauroneis anceps var. linearis	Large	Motile	Unicellular life form	Medium attachment	N	1.13	4	2.453
+Stauroneis clevei	Large	Motile	Unicellular life form	Medium attachment	N	1.092	4	2.483
+Stauroneis dubitabilis	Large	Motile	Unicellular life form	Medium attachment	N	1.119	4	2.485
+Stauroneis gracilis	Large	Motile	Unicellular life form	Unattached	N	1	4	2.478
+Stauroneis kriegeri	Nano	Motile	Unicellular life form	Unattached	N	1.2	4	2
+Stauroneis obtusa	Large	Motile	Unicellular life form	Medium attachment	N	1	4	2.418
+Stauroneis phoenicenteron	Large	Motile	Unicellular life form	Unattached	N	1	4	3
+Stauroneis pygmaea	Large	Motile	Unicellular life form	Medium attachment	N	1.2	4	2.547
+Stauroneis sacajaweae	Large	Motile	Unicellular life form	Unattached	N	1.12	4	2.561
+Stauroneis siberica	Large	Motile	Unicellular life form	Unattached	N	1.039	4	2.51
+Stauroneis subgracilis	Large	Motile	Unicellular life form	Medium attachment	N	1	4	2.508
+Staurosira construens	Large	Motile	Unicellular life form	Weak attachment	N	2	4	1
+Staurosira construens var. venter	Large	Motile	Unicellular life form	Weak attachment	N	2	4	1
+Staurosira leptostauron	Large	Motile	Unicellular life form	Weak attachment	N	2	4	1
+Staurosira venter	Large	Motile	Unicellular life form	Weak attachment	N	2	4	1
+Staurosira venter var. binodis	Large	Motile	Unicellular life form	Weak attachment	N	2	4	1
+Staurosirella leptostauron	Large	Motile	Unicellular life form	Weak attachment	N	2	7	1
+Staurosirella oldenburgiana	Large	Motile	Unicellular life form	Weak attachment	N	1.5	7	1
+Staurosirella pinnata	Large	Motile	Unicellular life form	Weak attachment	N	2	7	1
+Staurosirella spp.	Large	Motile	Unicellular life form	Weak attachment	N	1.774	7	1
+Stenopterobia spp.	Meso	Low profile	Colonial life form	Strong attachment	N	3	5	3
+Stephanodiscus hantzschii	Large	High profile	Colonial life form	Unattached	N	4.2	6	4
+Stephanodiscus hantzschii f. tenuis	Large	High profile	Colonial life form	Unattached	N	3.212	6	3.593
+Stephanodiscus minutulus	Large	High profile	Unicellular life form	Unattached	N	2	6	3
+Stephanodiscus parvus	Large	High profile	Unicellular life form	Unattached	N	3	6	3.274
+Stephanodiscus tenuis	Large	Motile	Unicellular life form	Weak attachment	N	3	6	3.606
+Stephanodiscus triporus	Large	Motile	Unicellular life form	Weak attachment	N	3.328	6	3.366
+Surirella angusta	Large	Motile	Unicellular life form	Weak attachment	N	2	5	2
+Surirella astridae	Macro	Motile	Unicellular life form	Weak attachment	N	2.029	5	3.081
+Surirella bifrons	Macro	Motile	Unicellular life form	Weak attachment	N	2	5	2.933
+Surirella biseriata var. heteropolis	Macro	Motile	Unicellular life form	Weak attachment	N	2.237	5	2.983
+Surirella biseriata var. diminuta	Macro	Motile	Unicellular life form	Weak attachment	N	2.239	5	2.925
+Surirella brebissonii	Macro	Motile	Unicellular life form	Unattached	N	2.38	5	2.814
+Surirella gracilis	Macro	Motile	Unicellular life form	Weak attachment	N	1	5	2.817
+Surirella lacrimula	Macro	Motile	Unicellular life form	Unattached	N	2.188	5	3.338
+Surirella linearis	Macro	Motile	Unicellular life form	Weak attachment	N	1	5	2.944
+Surirella linearis var. constricta	Macro	Motile	Unicellular life form	Weak attachment	N	1	5	3.086
+Surirella minuta	Macro	Motile	Unicellular life form	Weak attachment	N	3	5	3
+Surirella ovalis	Large	Motile	Unicellular life form	Unattached	N	4	5	4
+Surirella ovata	Large	Motile	Unicellular life form	Weak attachment	N	3	5	2.99
+Surirella robusta	Large	Motile	Unicellular life form	Weak attachment	N	1	5	2.941
+Surirella spp.	Large	Motile	Unicellular life form	Weak attachment	N	2.24	5	2.978
+Surirella splendida	Large	Motile	Unicellular life form	Weak attachment	N	1	5	2.673
+Surirella stalagma	Nano	Motile	Unicellular life form	Unattached	N	2	5	2.899
+Surirella subsalsa	Large	Motile	Unicellular life form	Weak attachment	N	4	5	2.946
+Surirella suecica	Large	Motile	Unicellular life form	Unattached	N	4	5	3.487
+Surirella tenera	Large	Motile	Unicellular life form	Weak attachment	N	2	5	2.781
+Surirella tientsinensis	Large	Motile	Unicellular life form	Weak attachment	N	2.083	5	2.908
+Surirella visurgis	Macro	Motile	Unicellular life form	Weak attachment	N	2.095	5	2.899
+Synedra affinis	Large	High profile	Unicellular life form	Weak attachment	N	4	3	1
+Synedra amphicephala	Large	High profile	Unicellular life form	Weak attachment	N	2	3	3
+Synedra parasitica	Large	High profile	Unicellular life form	Weak attachment	N	2	3	1
+Synedra rostrata	Large	High profile	Unicellular life form	Weak attachment	N	3	3	1
+Synedra rumpens	Large	High profile	Unicellular life form	Weak attachment	N	2	3	2
+Tabellaria fenestriata	Large	High profile	Colonial life form	Strong attachment	N	4	5	3
+Tabellaria spp.	Large	High profile	Colonial life form	Strong attachment	N	4	5	3
+Tabularia affinis	Large	High profile	Colonial life form	Strong attachment	N	4	5	3
+Tabularia fasciculata	Large	High profile	Unicellular life form	Weak attachment	N	4	5	3
+Tabularia sinensis	Large	High profile	Colonial life form	Strong attachment	N	4	5	3
+Tabularia tabulata	Large	High profile	Colonial life form	Strong attachment	N	4	5	3
+Tetracyclus lacustris	Large	High profile	Colonial life form	Strong attachment	N	1	3	1
+Thalassiosira aestivalis	Nano	High profile	Colonial life form	Strong attachment	N	3.577	5.434	3
+Thalassiosira concaviuscula	Nano	High profile	Colonial life form	Strong attachment	N	3.697	5.534	3
+Thalassiosira duostra	Nano	High profile	Colonial life form	Strong attachment	N	3.575	5.527	3
+Thalassiosira gessneri	Nano	High profile	Colonial life form	Strong attachment	N	3	5.529	3
+Thalassiosira hendeyi	Nano	High profile	Colonial life form	Strong attachment	N	3.425	5.294	3
+Thalassiosira lacustris	Micro	High profile	Unicellular life form	Unattached	N	3	5.534	3
+Thalassiosira pseudonana	Nano	High profile	Colonial life form	Strong attachment	N	4	6	3
+Thalassiosira spp.	Nano	High profile	Colonial life form	Strong attachment	N	3.566	5.431	3
+Thalassiosira tenera	Nano	High profile	Colonial life form	Strong attachment	N	3.396	5	3
+Thalassiosira weissflogii	Micro	High profile	Colonial life form	Unattached	N	4	5.516	3
+Trieres spp.	Nano	High profile	Colonial life form	Strong attachment	N	1.35	3	1
+Tryblionella angustata	Macro	Low profile	Colonial life form	Strong attachment	N	2.2	5	2.436
+Tryblionella angustatula	Macro	Low profile	Colonial life form	Strong attachment	N	3.576	5	2.359
+Tryblionella apiculata	Macro	Motile	Unicellular life form	Unattached	N	3.6	5	3
+Tryblionella calida	Macro	Motile	Unicellular life form	Weak attachment	N	3.7	5	1.734
+Tryblionella constricta	Macro	Low profile	Colonial life form	Strong attachment	N	3.6	5	2.242
+Tryblionella debilis	Macro	Low profile	Colonial life form	Strong attachment	N	4	5	1
+Tryblionella gracilis	Large	Motile	Unicellular life form	Unattached	N	4	5	1.447
+Tryblionella hungarica	Macro	Motile	Unicellular life form	Weak attachment	N	3.8	5	2.242
+Tryblionella levidensis	Macro	Low profile	Colonial life form	Strong attachment	N	4	5	2.353
+Tryblionella littoralis	Macro	Low profile	Colonial life form	Strong attachment	N	4	5	1.573
+Tryblionella plioveterana	Macro	Low profile	Colonial life form	Strong attachment	N	3.63	5	2.188
+Tryblionella salinarum	Macro	Low profile	Colonial life form	Strong attachment	N	3.7	5	2.439
+Tryblionella spp.	Macro	Low profile	Colonial life form	Strong attachment	N	3.635	5	2.467
+Tryblionella victoriae	Macro	Low profile	Colonial life form	Strong attachment	N	4	5	1.728
+Ulnaria acus	Large	High profile	Colonial life form	Weak attachment	N	2	5	2
+Ulnaria acus var. angustissima	Large	Motile	Unicellular life form	Weak attachment	N	2.449	6.435	2.351
+Ulnaria amphicephala	Large	Motile	Unicellular life form	Weak attachment	N	2.536	6.477	2.378
+Ulnaria biceps	Large	Motile	Unicellular life form	Weak attachment	N	3	6.474	2.381
+Ulnaria capitata	Large	High profile	Colonial life form	Strong attachment	N	2	6.233	2.32
+Ulnaria constracta	Large	Motile	Unicellular life form	Weak attachment	N	2.448	6.232	2.209
+Ulnaria danica	Large	Motile	Unicellular life form	Weak attachment	N	2	6.445	2.352
+Ulnaria lanceolata	Large	Motile	Unicellular life form	Weak attachment	N	2.5	6.142	2.282
+Ulnaria spp.	Large	Motile	Unicellular life form	Weak attachment	N	2.391	6.45	2.357
+Ulnaria ulna	Large	Motile	Unicellular life form	Weak attachment	N	3	7	3
+Ulnaria ulna var. angustissima	Large	Motile	Unicellular life form	Weak attachment	N	2.588	7	2
+Ulnaria ulna var. axyrhynnchus f. contracta	Large	Motile	Unicellular life form	Weak attachment	N	2.546	6.443	2.357
+Ulnaria ulna var. constracta	Large	Motile	Unicellular life form	Weak attachment	N	2.563	6.554	2.378
+Ulnaria ulna var. spathulifera	Large	Motile	Unicellular life form	Weak attachment	N	2.412	6.252	2.31
